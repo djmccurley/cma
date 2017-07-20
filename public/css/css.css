@@ -440,6 +440,10 @@ ol, ul {
 header {
   color: #B2B248; }
 
+main h1 {
+  color: #B2B248;
+  background-color: #fbfbfb; }
+
 html {
   box-sizing: border-box; }
 
@@ -448,23 +452,52 @@ html {
 
 header {
   width: 100%;
+  position: relative;
+  z-index: 10;
   /* Rectangle 10: */
   background-image: linear-gradient(-180deg, #363636 0%, #1D1C1C 100%);
   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.5); }
   header .logo {
     display: block;
-    height: 60px;
-    margin: .75rem 0 .5rem 4rem;
+    height: 65px;
+    padding: .3rem;
+    margin-left: 4rem;
+    /* margin: .75rem 0 .5rem 4rem; */
     float: left; }
+  header .navwrapper {
+    padding-right: 4rem;
+    float: right; }
   header ol {
-    float: right;
-    margin-right: 4rem; }
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0; }
     header ol li {
-      float: left;
       display: block;
-      line-height: 1rem;
-      padding: .75rem 0;
-      margin-left: 2.5em; }
+      line-height: 4rem;
+      padding-right: 2rem;
+      position: relative;
+      float: left; }
+    header ol ol {
+      display: none;
+      position: absolute;
+      z-index: 2;
+      top: 100%;
+      left: 0%;
+      /* padding: 1rem; */
+      background-color: #1D1C1C;
+      box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.5); }
+      header ol ol li {
+        color: #B2B248;
+        padding-left: 2rem;
+        min-width: 200px;
+        padding-right: 4rem;
+        line-height: 3rem; }
+      header ol ol li:hover {
+        background-image: linear-gradient(-180deg, #b2b248 0%, #9D8142 100%);
+        color: #131313; }
+  header ol li:hover > ol {
+    display: block; }
   header .asphalt {
     height: 1.25rem;
     width: 100%;
