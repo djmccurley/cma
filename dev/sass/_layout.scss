@@ -61,9 +61,7 @@ header {
 		float: left;
 		}
 
-		@include wide {
-			margin-left: 4rem;
-		}
+
 	}
 
 	.menu_toggle {
@@ -103,9 +101,6 @@ header {
 			float: right;
 		}
 
-		@include wide {
-			padding-right: 4rem;
-		}
 
 	}
 

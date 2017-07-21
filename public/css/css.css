@@ -510,9 +510,6 @@ header {
         height: 50px;
         margin: .5rem 0 0 0;
         float: left; } }
-    @media screen and (min-width: 1200px) {
-      header .logo {
-        margin-left: 4rem; } }
   header .menu_toggle {
     display: block;
     float: right;
@@ -541,9 +538,6 @@ header {
         text-align: left;
         padding: 0;
         float: right; } }
-    @media screen and (min-width: 1200px) {
-      header .nav_wrapper {
-        padding-right: 4rem; } }
   header ol {
     position: static;
     padding: 0;
