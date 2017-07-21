@@ -5,6 +5,19 @@ html {
   box-sizing: inherit;
 }
 
+	.asphalt {
+		min-height: 1.25rem;
+		width: 100%;
+		background-image: url("../img/asfalt.png"); 
+	}
+	.border {
+		clear: both;
+		display: block;
+		width: 100%;
+		height: 5px;
+		background-image: $gold-gradient;
+		box-shadow: $shadow;
+	}
 //header styles
 header {
 	width: 100%;
@@ -27,8 +40,12 @@ header {
 
 		@include desktop {
 		height: 50px;
-		margin: .5rem 0 0rem 4rem;
+		margin: .5rem 0 0rem 2rem;
 		float: left;
+		}
+
+		@include wide {
+			margin-left: 4rem;
 		}
 	}
 
@@ -62,8 +79,12 @@ header {
 		@include desktop {
 			display: block !important; 
 			text-align: left;
-			padding-right: 4rem;
+			padding-right: 1rem;
 			float: right;
+		}
+
+		@include wide {
+			padding-right: 4rem;
 		}
 
 	}
@@ -86,9 +107,13 @@ header {
 			@include desktop {
 				display: block;
 				line-height: 4rem;
-				padding: 0 2rem;
+				padding: 0 1rem;
 				position: relative;
 				float: left;
+			}
+
+			@include wide {
+				padding: 0rem 1rem;
 			}
 		}
 
@@ -131,19 +156,7 @@ header {
 	}
 
 
-	.asphalt {
-		height: 1.25rem;
-		width: 100%;
-		background-image: url("../img/asfalt.png"); 
-	}
-	.border {
-		clear: both;
-		display: block;
-		width: 100%;
-		height: 5px;
-		background-image: $gold-gradient;
-		box-shadow: $shadow;
-	}
+
 
 }
 
@@ -151,4 +164,25 @@ header {
 
 main {
 
+}
+
+// footer styles
+
+
+footer { 
+	font-size: .8rem;
+	background-image: $black-gradient;
+	p {
+		color: $gold;
+		display: inline-block;
+		padding-left: 1rem;
+
+	}
+	a {
+	display: inline-block;
+	text-align: right;
+	padding: 1rem;
+	color: $gold;
+	text-decoration: none;
+}
 }

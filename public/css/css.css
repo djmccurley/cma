@@ -451,6 +451,19 @@ html {
 *, *:before, *:after {
   box-sizing: inherit; }
 
+.asphalt {
+  min-height: 1.25rem;
+  width: 100%;
+  background-image: url("../img/asfalt.png"); }
+
+.border {
+  clear: both;
+  display: block;
+  width: 100%;
+  height: 5px;
+  background-image: linear-gradient(-180deg, #b2b248 0%, #9D8142 100%);
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.5); }
+
 header {
   width: 100%;
   position: relative;
@@ -465,8 +478,11 @@ header {
     @media screen and (min-width: 870px) {
       header .logo {
         height: 50px;
-        margin: .5rem 0 0rem 4rem;
+        margin: .5rem 0 0rem 2rem;
         float: left; } }
+    @media screen and (min-width: 1200px) {
+      header .logo {
+        margin-left: 4rem; } }
   header .menu_toggle {
     display: block;
     background-image: linear-gradient(-180deg, #b2b248 0%, #9D8142 100%);
@@ -489,8 +505,11 @@ header {
       header .nav_wrapper {
         display: block !important;
         text-align: left;
-        padding-right: 4rem;
+        padding-right: 1rem;
         float: right; } }
+    @media screen and (min-width: 1200px) {
+      header .nav_wrapper {
+        padding-right: 4rem; } }
   header ol {
     position: static;
     padding: 0;
@@ -508,9 +527,12 @@ header {
         header ol li {
           display: block;
           line-height: 4rem;
-          padding: 0 2rem;
+          padding: 0 1rem;
           position: relative;
           float: left; } }
+      @media screen and (min-width: 1200px) {
+        header ol li {
+          padding: 0rem 1rem; } }
     header ol li:active {
       background-image: linear-gradient(-180deg, #5E5D5D 0%, #2C2C2C 100%); }
     @media screen and (min-width: 870px) {
@@ -533,17 +555,20 @@ header {
   header ol li:hover > ol {
     display: block;
     z-index: 2; }
-  header .asphalt {
-    height: 1.25rem;
-    width: 100%;
-    background-image: url("../img/asfalt.png"); }
-  header .border {
-    clear: both;
-    display: block;
-    width: 100%;
-    height: 5px;
-    background-image: linear-gradient(-180deg, #b2b248 0%, #9D8142 100%);
-    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.5); }
+
+footer {
+  font-size: .8rem;
+  background-image: linear-gradient(-180deg, #363636 0%, #1D1C1C 90%); }
+  footer p {
+    color: #B2B248;
+    display: inline-block;
+    padding-left: 1rem; }
+  footer a {
+    display: inline-block;
+    text-align: right;
+    padding: 1rem;
+    color: #B2B248;
+    text-decoration: none; }
 
 /* ==========================================================================
    Helper classes
