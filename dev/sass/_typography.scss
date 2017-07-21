@@ -27,8 +27,12 @@ main {
 	display: block;
 }
 
-a {
-	text-decoration: none;	
+a:link, a:visited {
+	text-decoration: none;
+}
+
+li a:link, li a:visited {
+	color: $gold;
 }
 
 .info_link:link, .info_link:visited {
