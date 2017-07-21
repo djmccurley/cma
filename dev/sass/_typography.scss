@@ -18,3 +18,20 @@ main {
 		background-color: $white;
 	}
 }
+
+.bold {
+	font-weight: 700;
+}
+
+.break {
+	display: block;
+}
+
+a {
+	text-decoration: none;	
+}
+
+.info_link:link, .info_link:visited {
+	color: $gold;
+	font-weight: 700;
+}
