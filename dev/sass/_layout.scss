@@ -36,6 +36,13 @@ header {
 	background-image: $black-gradient;
 	box-shadow: $shadow;
 
+	.header_wrapper {
+
+		@include desktop {
+			width: 75%;
+			margin: auto;
+		}
+	}
 	h1 {
 		//H1 in header is hidden using visuallyhidden class
 		//still readable for screenreaders
@@ -50,7 +57,7 @@ header {
 		@include desktop {
 		width: auto;
 		height: 50px;
-		margin: .5rem 0 0rem 2rem;
+		margin: .5rem 0 0 0;
 		float: left;
 		}
 
@@ -92,7 +99,7 @@ header {
 		@include desktop {
 			display: block !important; 
 			text-align: left;
-			padding-right: 1rem;
+			padding: 0;
 			float: right;
 		}
 
@@ -196,7 +203,6 @@ main {
 
 	@include desktop {
 		width: 75%;
-		max-width: 1000px;
 		margin: auto;
 	}
 
