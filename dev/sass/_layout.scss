@@ -5,6 +5,11 @@ html {
   box-sizing: inherit;
 }
 
+body {
+	background: url("../img/Bokeh01.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
 img {
 	max-width: 100%;
 	display: block;
@@ -125,7 +130,7 @@ header {
 			}
 		}
 
-		li:active {
+		li:hover, li:active {
 			background-image: $gray-gradient;
 		}
 
@@ -144,14 +149,10 @@ header {
 			}
 
 			li {
-				padding-left: 10%;
+				padding: 1rem 1rem;
 				color: $gold;
 				min-width: 200px;
-				line-height: 4rem;
-			}
-
-			li:hover, li:active {
-				background-image: $gray-gradient;
+				line-height: 1.4rem;
 			}
 		}
 
@@ -172,8 +173,16 @@ header {
 
 main {
 
+	background-color: $white;
 	margin-top: 0;
 	font-size: 1.1rem;
+	box-shadow: $shadow;
+
+	@include desktop {
+		width: 75%;
+		max-width: 1000px;
+		margin: auto;
+	}
 
 	.cta {
 		background-image: $black-gradient;
