@@ -11,7 +11,7 @@ header {
 	position: relative;
 	z-index: 10;
 	/* Rectangle 10: */
-	background-image: linear-gradient(-180deg, #363636 0%, #1D1C1C 100%);
+	background-image: $black-gradient;
 	box-shadow: $shadow;
 
 	h1 {
@@ -19,59 +19,106 @@ header {
 		//still readable for screenreaders
 	}
 
+
 	.logo {
 		display: block;
 		height: 65px;
-		padding: .3rem;
-		margin-left: 4rem;
-		/* margin: .75rem 0 .5rem 4rem; */ //try wrapping logo in a div??
-		
+		margin: 1rem auto;
+
+		@include desktop {
+		height: 50px;
+		margin: .5rem 0 0rem 4rem;
 		float: left;
+		}
 	}
 
-	.navwrapper {
-		padding-right: 4rem;
-		float: right;
+	.menu_toggle {
+		display: block;
+		background-image: $gold-gradient;
+		color: $black;
+		padding: .75rem 2rem;
+		width: 100%;
+		text-align: center;
+		
+		font-weight: 600;
 
+		&::after {
+			content: " +";
+		}
+
+		&.expanded::after {
+			content: " –";
+		}
+
+		@include desktop {
+			display: none;
+		}
+	}
+
+	.nav_wrapper {
+		display: none;
+		text-align: left;
+
+		@include desktop {
+			display: block !important; 
+			text-align: left;
+			padding-right: 4rem;
+			float: right;
+		}
 
 	}
 
 	ol {
-		position: relative;
-		float: left;
-		margin: 0;
+		position: static;
 		padding: 0;
+		margin: 0;
 
-		li {
-			display: block;
-			line-height: 4rem;
-			padding-right: 2rem;
+		@include desktop {
 			position: relative;
 			float: left;
+			margin: 0;
+			padding: 0;
+		}
+		li {
+			line-height: 4rem;
+			padding-left: 10%;
+
+			@include desktop {
+				display: block;
+				line-height: 4rem;
+				padding: 0 2rem;
+				position: relative;
+				float: left;
+			}
 		}
 
-		ol {
-			display: none;
-			position: absolute;
-			z-index: 2;
-			top: 100%;
-			left: 0%;
-			/* padding: 1rem; */
-			background-color: #1D1C1C;
-			box-shadow: $shadow;
-			
+		li:active {
+			background-image: $gray-gradient;
+		}
 
-			li {
-				color: $gold;
-				padding-left: 2rem;
-				min-width: 200px;
-				padding-right: 4rem;
-				line-height: 3rem;
+
+		ol {
+
+			@include desktop {
+				display: none;
+				position: absolute;
+				z-index: 2;
+				top: 100%;
+				left: 0%;
+				/* padding: 1rem; */
+				background-color: #1D1C1C;
+				box-shadow: $shadow;
 			}
 
-			li:hover {
-				background-image: $gold-gradient;
-				color: $black;
+			li {
+				padding-left: 10%;
+				color: $gold;
+				min-width: 200px;
+				line-height: 4rem;
+			}
+
+			li:hover, li:active {
+				background-image: $gray-gradient;
 			}
 		}
 
@@ -80,7 +127,10 @@ header {
 
 	ol li:hover > ol {
 		display: block;
+		z-index: 2;
 	}
+
+
 	.asphalt {
 		height: 1.25rem;
 		width: 100%;
