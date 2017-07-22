@@ -612,9 +612,21 @@ main {
       @media screen and (min-width: 980px) {
         main .leader p {
           padding: 0rem 3rem; } }
+  @media screen and (min-width: 1300px) {
+    main .content_pane {
+      display: flex;
+      align-items: flex-start;
+      margin-bottom: 2rem; } }
+  @media screen and (min-width: 1300px) {
+    main .content_pane img {
+      flex: 1;
+      width: 50%; } }
   main .content_pane h2 {
     font-size: 2rem;
     line-height: 1; }
+    @media screen and (min-width: 1300px) {
+      main .content_pane h2 {
+        margin: 0; } }
   main .content_pane .content_wrapper {
     padding: 0 1rem;
     margin-bottom: 3rem; }
@@ -622,6 +634,9 @@ main {
       main .content_pane .content_wrapper {
         padding: 1rem 3rem;
         margin-bottom: 2rem; } }
+    @media screen and (min-width: 1300px) {
+      main .content_pane .content_wrapper {
+        flex: 1; } }
   main .content_pane .place {
     text-align: center; }
     @media screen and (min-width: 980px) {
