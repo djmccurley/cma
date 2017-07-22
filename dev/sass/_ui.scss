@@ -1,3 +1,74 @@
+.cta {
+	background-image: $black-gradient;
+	color: $gold;
+	padding: .75rem 1rem;
+	width: 50%;
+	display: block;
+	margin: 2rem auto 0rem auto;
+	text-align: center;
+	font-weight: 600;
+	border-radius: 3px;
+	box-shadow: $shadow;
 
+	&:hover, &:active {
+		background-image: $gold-gradient;
+		color: $black;
+	}
+}
+
+.menu_toggle {
+	display: block;
+	float: right;
+	background-image: $black-gradient;
+	color: $gold;
+	padding: .75rem 1rem;
+	margin: 1rem;
+	text-align: center;
+	font-size: .9rem;
+	font-weight: 600;
+	border-radius: 3px;
+	box-shadow: $shadow;
+
+	&:after {
+		content: " +";
+	}
+
+	&.expanded:after {
+		content: " –";
+	}
+
+	@include desktop {
+		display: none;
+	}
+
+	&:hover, &:active {
+		background-image: $gold-gradient;
+		color: $black;
+	}
+}
+
+a:link, a:visited {
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	color: $dark-gold;
+}
+
+
+
+li a:link, li a:visited {
+	color: $gold;
+}
+
+.info_link:link, .info_link:visited {
+	color: $gold;
+	font-weight: 700;
+}
+
+.info_link:hover, .info_link:active {
+	color: $dark-gold;
+	transition: .15s ease all;
+}
 
 

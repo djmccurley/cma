@@ -451,16 +451,6 @@ main h1 {
 .break {
   display: block; }
 
-a:link, a:visited {
-  text-decoration: none; }
-
-li a:link, li a:visited {
-  color: #B2B248; }
-
-.info_link:link, .info_link:visited {
-  color: #B2B248;
-  font-weight: 700; }
-
 html {
   box-sizing: border-box; }
 
@@ -473,7 +463,7 @@ body {
   background-attachment: fixed; }
 
 img {
-  max-width: 100%;
+  width: 100%;
   display: block; }
 
 .asphalt {
@@ -489,6 +479,14 @@ img {
   background-image: linear-gradient(-180deg, #b2b248 0%, #9D8142 100%);
   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.5); }
 
+.flex_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; }
+  @media screen and (min-width: 980px) {
+    .flex_container {
+      display: inline-block; } }
+
 header {
   width: 100%;
   position: relative;
@@ -496,45 +494,32 @@ header {
   /* Rectangle 10: */
   background-image: linear-gradient(-180deg, #363636 0%, #1D1C1C 90%);
   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.5); }
-  @media screen and (min-width: 870px) {
+  @media screen and (min-width: 980px) {
     header .header_wrapper {
-      width: 75%;
+      width: 80%;
       margin: auto; } }
+  @media screen and (min-width: 1300px) {
+    header .header_wrapper {
+      width: 75%; } }
   header .logo {
     display: inline-block;
-    height: 50px;
+    max-width: 200px;
+    max-height: 50px;
     margin: 1rem 2rem 1rem 1rem; }
-    @media screen and (min-width: 870px) {
+    @media screen and (min-width: 980px) {
       header .logo {
         width: auto;
         height: 50px;
         margin: .5rem 0 0 0;
         float: left; } }
-  header .menu_toggle {
-    display: block;
-    float: right;
-    background-image: linear-gradient(-180deg, #363636 0%, #1D1C1C 90%);
-    color: #B2B248;
-    padding: .75rem 1rem;
-    margin: 1rem;
-    text-align: center;
-    font-size: .9rem;
-    font-weight: 600;
-    border-radius: 3px;
-    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.5); }
-    header .menu_toggle::after {
-      content: " +"; }
-    header .menu_toggle.expanded::after {
-      content: " –"; }
-    @media screen and (min-width: 870px) {
-      header .menu_toggle {
-        display: none; } }
   header .nav_wrapper {
     display: none;
-    text-align: left; }
-    @media screen and (min-width: 870px) {
+    text-align: left;
+    font-size: 1.1rem; }
+    @media screen and (min-width: 980px) {
       header .nav_wrapper {
         display: block !important;
+        font-size: 1rem;
         text-align: left;
         padding: 0;
         float: right; } }
@@ -542,16 +527,16 @@ header {
     position: static;
     padding: 0;
     margin: 0; }
-    @media screen and (min-width: 870px) {
+    @media screen and (min-width: 980px) {
       header ol {
         position: relative;
         float: left;
         margin: 0;
         padding: 0; } }
     header ol li {
-      line-height: 1rem;
+      line-height: 1.1rem;
       padding: 0; }
-      @media screen and (min-width: 870px) {
+      @media screen and (min-width: 980px) {
         header ol li {
           display: block;
           line-height: 4rem;
@@ -563,12 +548,12 @@ header {
         width: 100%;
         height: 100%;
         padding: 1rem; }
-        @media screen and (min-width: 870px) {
+        @media screen and (min-width: 980px) {
           header ol li a {
             padding: 0rem 1rem; } }
     header ol a:hover, header ol a:active {
       background-image: linear-gradient(-180deg, #5E5D5D 0%, #2C2C2C 100%); }
-    @media screen and (min-width: 870px) {
+    @media screen and (min-width: 980px) {
       header ol ol {
         display: none;
         position: absolute;
@@ -584,7 +569,7 @@ header {
       line-height: 1.4rem; }
       header ol ol li a {
         padding: 1rem 3rem; }
-        @media screen and (min-width: 870px) {
+        @media screen and (min-width: 980px) {
           header ol ol li a {
             padding: 1rem; } }
   header ol li:hover > ol {
@@ -596,21 +581,13 @@ main {
   margin-top: 0;
   font-size: 1.1rem;
   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.5); }
-  @media screen and (min-width: 870px) {
+  @media screen and (min-width: 980px) {
     main {
-      width: 75%;
+      width: 80%;
       margin: auto; } }
-  main .cta {
-    background-image: linear-gradient(-180deg, #363636 0%, #1D1C1C 90%);
-    color: #B2B248;
-    padding: .75rem 1rem;
-    width: 50%;
-    display: block;
-    margin: 2rem auto 0rem auto;
-    text-align: center;
-    font-weight: 600;
-    border-radius: 3px;
-    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.5); }
+  @media screen and (min-width: 1300px) {
+    main {
+      width: 75%; } }
   main .leader {
     padding-bottom: 2rem; }
     main .leader h1 {
@@ -623,26 +600,32 @@ main {
       font-weight: 300;
       text-align: right;
       color: #fbfbfb; }
+      @media screen and (min-width: 980px) {
+        main .leader h1 {
+          padding-top: 10rem; } }
+      @media screen and (min-width: 1300px) {
+        main .leader h1 {
+          padding-top: 10rem; } }
     main .leader p {
       padding: 0 1rem;
       line-height: 1.4rem; }
-      @media screen and (min-width: 870px) {
+      @media screen and (min-width: 980px) {
         main .leader p {
           padding: 0rem 3rem; } }
-  main .concert_listing h2 {
+  main .content_pane h2 {
     font-size: 2rem;
     line-height: 1; }
-  main .concert_listing .content_wrapper {
+  main .content_pane .content_wrapper {
     padding: 0 1rem;
     margin-bottom: 3rem; }
-    @media screen and (min-width: 870px) {
-      main .concert_listing .content_wrapper {
+    @media screen and (min-width: 980px) {
+      main .content_pane .content_wrapper {
         padding: 1rem 3rem;
         margin-bottom: 2rem; } }
-  main .concert_listing .place {
+  main .content_pane .place {
     text-align: center; }
-    @media screen and (min-width: 870px) {
-      main .concert_listing .place {
+    @media screen and (min-width: 980px) {
+      main .content_pane .place {
         font-size: 1.25rem; } }
   main .ad h2 {
     padding: 0 1rem; }
@@ -661,6 +644,61 @@ footer {
     padding: 1rem;
     color: #B2B248;
     text-decoration: none; }
+
+.cta {
+  background-image: linear-gradient(-180deg, #363636 0%, #1D1C1C 90%);
+  color: #B2B248;
+  padding: .75rem 1rem;
+  width: 50%;
+  display: block;
+  margin: 2rem auto 0rem auto;
+  text-align: center;
+  font-weight: 600;
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.5); }
+  .cta:hover, .cta:active {
+    background-image: linear-gradient(-180deg, #b2b248 0%, #9D8142 100%);
+    color: #131313; }
+
+.menu_toggle {
+  display: block;
+  float: right;
+  background-image: linear-gradient(-180deg, #363636 0%, #1D1C1C 90%);
+  color: #B2B248;
+  padding: .75rem 1rem;
+  margin: 1rem;
+  text-align: center;
+  font-size: .9rem;
+  font-weight: 600;
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.5); }
+  .menu_toggle:after {
+    content: " +"; }
+  .menu_toggle.expanded:after {
+    content: " –"; }
+  @media screen and (min-width: 980px) {
+    .menu_toggle {
+      display: none; } }
+  .menu_toggle:hover, .menu_toggle:active {
+    background-image: linear-gradient(-180deg, #b2b248 0%, #9D8142 100%);
+    color: #131313; }
+
+a:link, a:visited {
+  text-decoration: none; }
+
+a:hover, a:active {
+  color: #5A5A1B; }
+
+li a:link, li a:visited {
+  color: #B2B248; }
+
+.info_link:link, .info_link:visited {
+  color: #B2B248;
+  font-weight: 700; }
+
+.info_link:hover, .info_link:active {
+  color: #5A5A1B;
+  transition: .15s ease all; }
 
 /* ==========================================================================
    Helper classes

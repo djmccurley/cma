@@ -11,7 +11,7 @@ body {
 	background-attachment: fixed;
 }
 img {
-	max-width: 100%;
+	width: 100%;
 	display: block;
 }
 .asphalt {
@@ -27,6 +27,17 @@ img {
 	background-image: $gold-gradient;
 	box-shadow: $shadow;
 }
+
+.flex_container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+	@include desktop {
+		display: inline-block;
+
+	}
+}
 //header styles
 header {
 	width: 100%;
@@ -39,9 +50,14 @@ header {
 	.header_wrapper {
 
 		@include desktop {
-			width: 75%;
+			width: 80%;
 			margin: auto;
 		}
+
+		@include wide {
+			width: 75%;
+		}
+
 	}
 	h1 {
 		//H1 in header is hidden using visuallyhidden class
@@ -51,7 +67,8 @@ header {
 
 	.logo {
 		display: inline-block;
-		height: 50px;
+		max-width: 200px;
+		max-height: 50px;
 		margin: 1rem 2rem 1rem 1rem;
 
 		@include desktop {
@@ -64,38 +81,14 @@ header {
 
 	}
 
-	.menu_toggle {
-		display: block;
-		float: right;
-		background-image: $black-gradient;
-		color: $gold;
-		padding: .75rem 1rem;
-		margin: 1rem;
-		text-align: center;
-		font-size: .9rem;
-		font-weight: 600;
-		border-radius: 3px;
-		box-shadow: $shadow;
-
-		&::after {
-			content: " +";
-		}
-
-		&.expanded::after {
-			content: " –";
-		}
-
-		@include desktop {
-			display: none;
-		}
-	}
-
 	.nav_wrapper {
 		display: none;
 		text-align: left;
+		font-size: 1.1rem;
 
 		@include desktop {
 			display: block !important; 
+			font-size: 1rem;
 			text-align: left;
 			padding: 0;
 			float: right;
@@ -116,7 +109,7 @@ header {
 			padding: 0;
 		}
 		li {
-			line-height: 1rem;
+			line-height: 1.1rem;
 			padding: 0;
 
 			@include desktop {
@@ -197,22 +190,15 @@ main {
 	box-shadow: $shadow;
 
 	@include desktop {
-		width: 75%;
+		width: 80%;
 		margin: auto;
 	}
 
-	.cta {
-		background-image: $black-gradient;
-		color: $gold;
-		padding: .75rem 1rem;
-		width: 50%;
-		display: block;
-		margin: 2rem auto 0rem auto;
-		text-align: center;
-		font-weight: 600;
-		border-radius: 3px;
-		box-shadow: $shadow;
+	@include wide {
+		width: 75%;
 	}
+
+
 	.leader {
 		padding-bottom: 2rem;
 
@@ -226,11 +212,19 @@ main {
 			font-weight: 300;
 			text-align: right;
 			color: $white;
+
+			@include desktop {
+				padding-top: 10rem;
+			}
+			@include wide {
+				padding-top: 10rem;
+			}
 		}
 
 
 
 		p {
+
 			padding: 0 1rem;
 			line-height: 1.4rem;
 
@@ -240,7 +234,10 @@ main {
 		}
 	}
 
-	.concert_listing {
+	article {
+
+	}
+	.content_pane {
 
 		h2 {
 			font-size: 2rem;
