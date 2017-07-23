@@ -442,14 +442,16 @@ header {
   color: #B2B248; }
 
 main h1 {
-  color: #B2B248;
-  background-color: #fbfbfb; }
+  color: #B2B248; }
 
 .bold {
   font-weight: 700; }
 
 .break {
   display: block; }
+
+.feature {
+  font-weight: 600; }
 
 html {
   box-sizing: border-box; }
@@ -483,7 +485,7 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center; }
-  @media screen and (min-width: 980px) {
+  @media screen and (min-width: 900px) {
     .flex_container {
       display: inline-block; } }
 
@@ -494,19 +496,19 @@ header {
   /* Rectangle 10: */
   background-image: linear-gradient(-180deg, #363636 0%, #1D1C1C 90%);
   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.5); }
-  @media screen and (min-width: 980px) {
+  @media screen and (min-width: 900px) {
     header .header_wrapper {
-      width: 80%;
+      width: 85%;
       margin: auto; } }
-  @media screen and (min-width: 1300px) {
+  @media screen and (min-width: 1000px) {
     header .header_wrapper {
-      width: 75%; } }
+      width: 80%; } }
   header .logo {
     display: inline-block;
     max-width: 200px;
     max-height: 50px;
     margin: 1rem 2rem 1rem 1rem; }
-    @media screen and (min-width: 980px) {
+    @media screen and (min-width: 900px) {
       header .logo {
         width: auto;
         height: 50px;
@@ -516,7 +518,7 @@ header {
     display: none;
     text-align: left;
     font-size: 1.1rem; }
-    @media screen and (min-width: 980px) {
+    @media screen and (min-width: 900px) {
       header .nav_wrapper {
         display: block !important;
         font-size: 1rem;
@@ -527,7 +529,7 @@ header {
     position: static;
     padding: 0;
     margin: 0; }
-    @media screen and (min-width: 980px) {
+    @media screen and (min-width: 900px) {
       header ol {
         position: relative;
         float: left;
@@ -536,7 +538,7 @@ header {
     header ol li {
       line-height: 1.1rem;
       padding: 0; }
-      @media screen and (min-width: 980px) {
+      @media screen and (min-width: 900px) {
         header ol li {
           display: block;
           line-height: 4rem;
@@ -548,12 +550,12 @@ header {
         width: 100%;
         height: 100%;
         padding: 1rem; }
-        @media screen and (min-width: 980px) {
+        @media screen and (min-width: 900px) {
           header ol li a {
             padding: 0rem 1rem; } }
     header ol a:hover, header ol a:active {
       background-image: linear-gradient(-180deg, #5E5D5D 0%, #2C2C2C 100%); }
-    @media screen and (min-width: 980px) {
+    @media screen and (min-width: 900px) {
       header ol ol {
         display: none;
         position: absolute;
@@ -569,7 +571,7 @@ header {
       line-height: 1.4rem; }
       header ol ol li a {
         padding: 1rem 3rem; }
-        @media screen and (min-width: 980px) {
+        @media screen and (min-width: 900px) {
           header ol ol li a {
             padding: 1rem; } }
   header ol li:hover > ol {
@@ -581,15 +583,40 @@ main {
   margin-top: 0;
   font-size: 1.1rem;
   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.5); }
-  @media screen and (min-width: 980px) {
+  @media screen and (min-width: 900px) {
     main {
       width: 80%;
       margin: auto; } }
-  @media screen and (min-width: 1300px) {
-    main {
-      width: 75%; } }
+  main .hero {
+    position: relative;
+    margin-bottom: 2rem; }
+    main .hero img {
+      display: block;
+      width: 100%; }
+    main .hero h1 {
+      position: absolute;
+      text-align: right;
+      font-size: 3rem;
+      font-weight: 300;
+      color: #fbfbfb;
+      right: 5%;
+      bottom: 11%; }
+      @media screen and (min-width: 900px) {
+        main .hero h1 {
+          font-size: 3.5rem; } }
+    main .hero p {
+      position: absolute;
+      text-align: right;
+      font-weight: 300;
+      color: #fbfbfb;
+      right: 5%;
+      bottom: 5%;
+      line-height: 1.5rem; }
   main .leader {
     padding-bottom: 2rem; }
+    @media screen and (min-width: 1000px) {
+      main .leader {
+        padding-bottom: 3rem; } }
     main .leader h1 {
       margin-top: 0;
       background-image: url("../img/wood_floor.jpg");
@@ -600,46 +627,59 @@ main {
       font-weight: 300;
       text-align: right;
       color: #fbfbfb; }
-      @media screen and (min-width: 980px) {
+      @media screen and (min-width: 900px) {
         main .leader h1 {
-          padding-top: 10rem; } }
-      @media screen and (min-width: 1300px) {
+          padding-top: 10rem;
+          font-size: 3.5rem;
+          line-height: 3.5rem; } }
+      @media screen and (min-width: 1000px) {
         main .leader h1 {
           padding-top: 10rem; } }
     main .leader p {
       padding: 0 1rem;
       line-height: 1.4rem; }
-      @media screen and (min-width: 980px) {
+      @media screen and (min-width: 600px) {
         main .leader p {
+          padding: 0 2rem; } }
+      @media screen and (min-width: 900px) {
+        main .leader p {
+          text-align: center;
           padding: 0rem 3rem; } }
-  @media screen and (min-width: 1300px) {
+  @media screen and (min-width: 1000px) {
     main .content_pane {
       display: flex;
       align-items: flex-start;
       margin-bottom: 2rem; } }
-  @media screen and (min-width: 1300px) {
+  @media screen and (min-width: 1000px) {
     main .content_pane img {
       flex: 1;
-      width: 50%; } }
+      order: 2;
+      width: 50%;
+      padding-right: 2rem; } }
   main .content_pane h2 {
     font-size: 2rem;
     line-height: 1; }
-    @media screen and (min-width: 1300px) {
+    @media screen and (min-width: 1000px) {
       main .content_pane h2 {
         margin: 0; } }
   main .content_pane .content_wrapper {
     padding: 0 1rem;
     margin-bottom: 3rem; }
-    @media screen and (min-width: 980px) {
+    @media screen and (min-width: 600px) {
+      main .content_pane .content_wrapper {
+        padding: 1rem 2rem; } }
+    @media screen and (min-width: 900px) {
       main .content_pane .content_wrapper {
         padding: 1rem 3rem;
         margin-bottom: 2rem; } }
-    @media screen and (min-width: 1300px) {
+    @media screen and (min-width: 1000px) {
       main .content_pane .content_wrapper {
-        flex: 1; } }
+        flex: 1;
+        order: 1;
+        padding: 1rem 2rem 1rem 3rem; } }
   main .content_pane .place {
     text-align: center; }
-    @media screen and (min-width: 980px) {
+    @media screen and (min-width: 900px) {
       main .content_pane .place {
         font-size: 1.25rem; } }
   main .ad h2 {
@@ -691,7 +731,7 @@ footer {
     content: " +"; }
   .menu_toggle.expanded:after {
     content: " –"; }
-  @media screen and (min-width: 980px) {
+  @media screen and (min-width: 900px) {
     .menu_toggle {
       display: none; } }
   .menu_toggle:hover, .menu_toggle:active {

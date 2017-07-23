@@ -50,12 +50,12 @@ header {
 	.header_wrapper {
 
 		@include desktop {
-			width: 80%;
+			width: 85%;
 			margin: auto;
 		}
 
 		@include wide {
-			width: 75%;
+			width: 80%;
 		}
 
 	}
@@ -195,12 +195,49 @@ main {
 	}
 
 	@include wide {
-		width: 75%;
 	}
 
+	.hero {
+		position: relative;
+		margin-bottom: 2rem;
+
+		img {
+			display: block;
+			width: 100%;
+
+		}
+
+		h1 {
+			position: absolute;
+			text-align: right;
+			font-size: 3rem;
+			font-weight: 300;
+			color: $white;
+			right: 5%;
+			bottom: 11%;
+
+			@include desktop {
+				font-size: 3.5rem;
+			}
+		}
+
+		p {
+			position: absolute;
+			text-align: right;
+			font-weight: 300;
+			color: $white;
+			right: 5%;
+			bottom: 5%;
+			line-height: 1.5rem;
+		}
+	}
 
 	.leader {
 		padding-bottom: 2rem;
+
+		@include wide {
+			padding-bottom: 3rem;
+		}
 
 		h1 {
 			margin-top: 0;
@@ -215,6 +252,8 @@ main {
 
 			@include desktop {
 				padding-top: 10rem;
+				font-size: 3.5rem;
+				line-height: 3.5rem;
 			}
 			@include wide {
 				padding-top: 10rem;
@@ -224,12 +263,18 @@ main {
 
 
 		p {
-
 			padding: 0 1rem;
 			line-height: 1.4rem;
 
+			@include tablet {
+				padding: 0 2rem;
+			}
 			@include desktop {
+				text-align: center;
 				padding: 0rem 3rem;
+			}
+
+			@include wide {				
 			}
 		}
 	}
@@ -248,7 +293,9 @@ main {
 		img {
 			@include wide {
 				flex: 1;
+				order: 2;
 				width: 50%;
+				padding-right: 2rem;
 			}
 		}
 
@@ -265,6 +312,9 @@ main {
 			padding: 0 1rem;
 			margin-bottom: 3rem;
 
+			@include tablet {
+				padding: 1rem 2rem;
+			}
 			@include desktop {
 				padding: 1rem 3rem;
 				margin-bottom: 2rem;
@@ -272,6 +322,8 @@ main {
 
 			@include wide {
 				flex: 1;
+				order: 1;
+				padding: 1rem 2rem 1rem 3rem;
 			}
 
 
@@ -283,6 +335,7 @@ main {
 			@include desktop {
 				font-size: 1.25rem;
 			}
+
 		}
 	}
 
