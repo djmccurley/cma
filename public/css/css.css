@@ -667,6 +667,8 @@ main {
     @media screen and (min-width: 1000px) {
       main .content_pane h2 {
         margin: 0; } }
+  main .content_pane .tickets p {
+    margin: 0; }
   main .content_pane .content_wrapper {
     max-width: 800px;
     margin: auto;
@@ -748,7 +750,8 @@ footer {
     color: #131313; }
 
 a:link, a:visited {
-  text-decoration: none; }
+  text-decoration: none;
+  color: #B2B248; }
 
 a:hover, a:active {
   color: #5A5A1B; }
