@@ -663,6 +663,8 @@ main {
       main .content_pane h2 {
         margin: 0; } }
   main .content_pane .content_wrapper {
+    max-width: 800px;
+    margin: auto;
     padding: 0 1rem;
     margin-bottom: 3rem; }
     @media screen and (min-width: 600px) {
