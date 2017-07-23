@@ -210,18 +210,24 @@ main {
 		h1 {
 			position: absolute;
 			text-align: right;
-			font-size: 3rem;
+			font-size: 2rem;
 			font-weight: 300;
 			color: $white;
 			right: 5%;
-			bottom: 11%;
+			bottom: 25%;
+
+			@include tablet {
+				font-size: 3rem;
+				bottom: 15%;
+			}
 
 			@include desktop {
+				bottom: 12%;
 				font-size: 3.5rem;
 			}
 		}
 
-		p {
+ 		p {
 			position: absolute;
 			text-align: right;
 			font-weight: 300;
@@ -230,7 +236,7 @@ main {
 			bottom: 5%;
 			line-height: 1.5rem;
 		}
-	}
+	} 
 
 	.leader {
 		padding-bottom: 2rem;
@@ -326,6 +332,10 @@ main {
 				flex: 1;
 				order: 1;
 				padding: 1rem 2rem 1rem 3rem;
+
+			iframe {
+				max-width: 100%;
+			}	
 			}
 
 

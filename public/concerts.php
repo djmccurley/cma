@@ -18,49 +18,7 @@
     <!--[if lt IE 8]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
-    <header class="clearfix">
-      <div class="asphalt"></div>
-      <div class="border"></div>
-      <div class="header_wrapper">
-        <div class="flex_container">
-          <h1 class="visuallyhidden">Celtic Music Association</h1>
-          <img src="img/cma_logo_1.svg" alt="Celtic Music Association Logo" class="logo">
-          <div class="menu_toggle">Menu</div>
-        </div>
-        <nav class="nav_wrapper clearfix">
-
-            <ol>
-              <li><a href="concerts.php">Concerts</a>
-                <ol class="submenu clearfix">
-                  <li><a href="concerts.php">2017 – 2018 Season</a></li>
-                  <li><a href="skippers.html">Skipper's Alley</a></li>
-                  <li><a href="tallymoore.php">Tallymoore</a></li>
-                  <li><a href="daimh.php">Dàimh</a></li>
-                  <li><a href="socks.php">Socks in the Frying Pan</a></li>
-                </ol>   
-              </li>
-              <li><a href="tickets.php">Buy Tickets</a></li>
-              <li><a href="support.php">Support the CMA</a>
-                <ol class="submenu clearfix">
-                  <li><a href="support.php">Join the CMA</a></li>
-                  <li><a href="support.php">Become a Sponsor</a></li>
-                  <li><a href="support.php">Donate to CMA</a></li>
-                  <li><a href="support.php">Advertise with CMA</a></li>
-                </ol> 
-              </li>
-              <li><a href="#!">About</a>
-                <ol class="submenu clearfix">
-                  <li><a href="#!">Newsletter</a></li>
-                  <li><a href="#!">Board &amp; Members</a></li>
-                  <li><a href="#!">History</a></li>
-                  <li><a href="#!">More Celtic Music</a></li>
-                </ol> 
-              </li>  
-              <li><a href="#!">Contact</a></li>
-            </ol>
-        </nav> 
-      </div>   
-    </header>
+    <?php include 'php/header.php' ; ?>
 
     <main>
         <article class="leader">
@@ -77,11 +35,11 @@
             <div class="content_wrapper">
                 <h2>Skipper’s Alley</h2>
                 <p>Skipper’s Alley are a 7-piece ensemble whose dynamic take on traditional Irish music has garnered wide critical praise and featured on such diverse stages as The Late Late Show, La Festival Interceltique de Lorient, and the Irish Embassy in Zambia.</p>                    
-                <a href="skippers.html" class="info_link"> More about this artist...</a>
+                <a href="skippers.php" class="info_link"> More about this artist...</a>
                <p class="place bold">Oct 21, 2017</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
 
-               <a href="#!" class="cta">Buy Tickets</a>
+               <a href="tickets.php" class="cta">Buy Tickets</a>
             </div>
         </article>
 
@@ -89,12 +47,12 @@
             <img src="img/tallymoore.jpg">
             <div class="content_wrapper">
                 <h2>Tallymoore</h2>
-                <p>Five-piece band from Dublin. 2013 winners of best Irish music band. This is some test content so it will be changed anyways.</p>                    
-                <a href="#!" class="info_link"> More about this artist...</a>
+                <p>Tallymoore is a contemporary Irish Folk band from Milwaukee, Wisconsin performing a range of Irish and Scottish folk tunes, ballads, reels and classic pub songs. The group also incorporates acoustic and vocal material from broader Celtic, traditional country, bluegrass, and Americana sources.</p>                    
+                <a href="tallymoore.php" class="info_link"> More about this artist...</a>
                <p class="place bold">January 13, 2018</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
 
-               <a href="#!" class="cta">Buy Tickets</a>
+               <a href="tickets.php" class="cta">Buy Tickets</a>
             </div>
         </article>
 
@@ -102,12 +60,12 @@
             <img src="img/daimh.jpg">
             <div class="content_wrapper">
                 <h2>Dàimh</h2>
-                <p> Five-piece band from Dublin. 2013 winners of best Irish music band. This is some test content so it will be changed anyways.</p>                    
-                <a href="#!" class="info_link"> More about this artist...</a>
+                <p>ormed around the turn of the century and taking the name from the Gaelic word for "kinship" Daimh (pronounced Dive) have taken their contemporary take of Highland and Gaelic music to over 20 countries,  setting audiences alight from Moscow to San Francisco.</p>                    
+                <a href="daimh.php" class="info_link"> More about this artist...</a>
                <p class="place bold">Feb 10, 2018</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
 
-               <a href="#!" class="cta">Buy Tickets</a>
+               <a href="tickets.php" class="cta">Buy Tickets</a>
             </div>
         </article>
 
@@ -115,12 +73,12 @@
             <img src="img/socks_in_the_frying_pan.jpg">
             <div class="content_wrapper">
                 <h2>Socks in the Frying Pan</h2>
-                <p> Five-piece band from Dublin. 2013 winners of best Irish music band. This is some test content so it will be changed anyways.</p>                    
-                <a href="#!" class="info_link"> More about this artist...</a>
+                <p>Socks in the Frying Pan are a multi-award winning trio from County Clare on the West coast of Ireland, the universal hub of Irish traditional music. Their dynamic vocal harmonies, virtuosic musical ability and their onstage wit has captured and captivated audiences the world around. One of the most sought after groups in Irish music today, the worldwide ‘Sock Invasion’ continues!</p>                    
+                <a href="socks.php" class="info_link"> More about this artist...</a>
                <p class="place bold">March 9, 2018</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
 
-               <a href="#!" class="cta">Buy Tickets</a>
+               <a href="tickets.php" class="cta">Buy Tickets</a>
             </div>
         </article>
 
