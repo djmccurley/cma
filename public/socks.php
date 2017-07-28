@@ -35,7 +35,11 @@
 
                 <p>Socks in the Frying Pan comprises of Aodán Coyne on guitar and vocals and the accomplished Hayes brothers, Shane Hayes on accordion and Fiachra Hayes on fiddle & banjo.This youthful trio blend Irish traditional melodies with their own personal flair which has gained them critical acclaim and accolades including ‘New Band of the Year’ by the Irish Music Association. The group have been embraced in the United States, having been booked by every major Irish festival and praised for their modern traditional style and energetic approach to music. They have a clear love for live performance which only compliments the traditional essence in their shows and makes for a truly unique form of entertainment.</p>
 
-                <iframe width="853" height="480" src="https://www.youtube.com/embed/sqF3PfUt5f0" frameborder="0" allowfullscreen></iframe>
+                <div class="video_wrapper">
+                  <iframe width="853" height="480" src="https://www.youtube.com/embed/q4PHnAHWZno" frameborder="0" allowfullscreen></iframe>
+                </div>
+
+                <p class="place"><a href="http://www.socksinthefryingpan.com/" class="info_link">Socks in the Frying Pan</a></p>
                
                <p class="place bold">March 9, 2018</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>    

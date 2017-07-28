@@ -6,7 +6,7 @@ echo    '<header class="clearfix">
       <div class="header_wrapper">
         <div class="flex_container">
           <h1 class="visuallyhidden">Celtic Music Association</h1>
-          <img src="img/cma_logo_1.svg" alt="Celtic Music Association Logo" class="logo">
+          <a href="concerts.php"><img src="img/cma_logo_1.svg" alt="Celtic Music Association Logo" class="logo"></a>
           <div class="menu_toggle">Menu</div>
         </div>
         <nav class="nav_wrapper clearfix">

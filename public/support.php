@@ -31,7 +31,15 @@
                   <p>Complete the form below to become a Friend of the Celtic Music Association:</p>
                   <a href="http://www.thecma.org" class="info_link">Membership form (PDF)</a>
 
-                  
+                <h2>Sponsor the CMA</h2>  
+                <p>To become a sponsor, do X Y and Z...</p>
+
+                <h2>Donate to the CMA</h2>
+                <p>To make a one-time donation to the CMA, use the form below:</p>
+                <a href="#!" class="info_link">Donation Form</a>
+
+                <h2>Advertise with the CMA</h2>
+                <p>To advertise with the CMA, <a href="#!" class="info_link">contact us here</a></p>
             </div>
         </article>
 
