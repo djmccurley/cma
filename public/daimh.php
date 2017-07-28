@@ -37,11 +37,17 @@
 
                 <p>Daimh have always had the renown and notoriety of working with some of the finest Gaelic singers in Scotland  and the current line up only serves to cement that distinction with the addition of the rapidly rising star in the  Gaelic firmament, Ellen Macdonald on vocals.</p> 
 
-                <p>Dàimh have carved a reputation from the bedrock of Gaelic culture... authentic Gaelic music with a modern edge and a magnificent range of expression. This could be one of the best Scottish releases of 2014. FOLKWORLD</p> 
+                <p>Dàimh have carved a reputation from the bedrock of Gaelic culture... authentic Gaelic music with a modern edge and a magnificent range of expression. This could be one of the best Scottish releases of 2014. FOLKWORLD</p>   
                
+               <div class="video_wrapper">
+                  <iframe width="853" height="480" src="https://www.youtube.com/embed/VWnmI6SRCRA" frameborder="0" allowfullscreen></iframe>
+                </div>
+
+                <p class="place"><a href="https://www.daimh.net/" class="info_link">Dàimh</a></p>
+
+                               
                <p class="place bold">February 10, 2018</p>
-               <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>    
-               
+               <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>  
 
                <a href="#!" class="cta">Buy Tickets</a>
             </div>
