@@ -607,29 +607,32 @@ main {
       display: block;
       width: 100%; }
     main .hero h1 {
-      position: absolute;
-      text-align: right;
-      font-size: 2rem;
-      font-weight: 300;
-      color: #fbfbfb;
-      right: 5%;
-      bottom: 25%; }
+      padding-left: 1rem; }
       @media screen and (min-width: 600px) {
         main .hero h1 {
           font-size: 3rem;
-          bottom: 15%; } }
+          bottom: 15%;
+          position: absolute;
+          text-align: right;
+          font-size: 3rem;
+          font-weight: 300;
+          color: #fbfbfb;
+          right: 5%; } }
       @media screen and (min-width: 900px) {
         main .hero h1 {
           bottom: 12%;
           font-size: 3.5rem; } }
     main .hero p {
-      position: absolute;
-      text-align: right;
-      font-weight: 300;
-      color: #fbfbfb;
-      right: 5%;
-      bottom: 5%;
-      line-height: 1.5rem; }
+      padding: 0 1rem; }
+      @media screen and (min-width: 600px) {
+        main .hero p {
+          position: absolute;
+          text-align: right;
+          font-weight: 300;
+          color: #fbfbfb;
+          right: 5%;
+          bottom: 5%;
+          line-height: 1.5rem; } }
   main .leader {
     padding-bottom: 2rem; }
     @media screen and (min-width: 1000px) {
