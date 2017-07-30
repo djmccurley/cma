@@ -10,7 +10,8 @@
       <link rel="apple-touch-icon" href="apple-touch-icon.png">
       <!-- Place favicon.ico in the root directory -->
 
-      <link href="https://fonts.googleapis.com/css?family=Raleway:300,600" rel="stylesheet">
+      <!-- <link href="https://fonts.googleapis.com/css?family=Raleway:300,600" rel="stylesheet"> -->
+      <link rel="stylesheet" type="text/css" href="css/raleway.css">
       <link rel="stylesheet" href="css/css.css">
       <script src="js/vendor/modernizr-2.8.3.min.js"></script>
   </head>

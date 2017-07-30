@@ -10,7 +10,7 @@
       <link rel="apple-touch-icon" href="apple-touch-icon.png">
       <!-- Place favicon.ico in the root directory -->
 
-      <link href="https://fonts.googleapis.com/css?family=Raleway:300,600" rel="stylesheet">
+      <!-- <link href="https://fonts.googleapis.com/css?family=Raleway:300,600" rel="stylesheet"> --><link rel="stylesheet" type="text/css" href="css/raleway.css">
       <link rel="stylesheet" href="css/css.css">
       <script src="js/vendor/modernizr-2.8.3.min.js"></script>
   </head>
@@ -45,11 +45,11 @@
 
                 <p class="place"><a href="https://www.daimh.net/" class="info_link">Dàimh</a></p>
 
-                               
+
                <p class="place bold">February 10, 2018</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>  
 
-               <a href="#!" class="cta">Buy Tickets</a>
+               <a href="tickets.php" class="cta">Buy Tickets</a>
             </div>
         </article>
 

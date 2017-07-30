@@ -24,21 +24,21 @@ echo    '<header class="clearfix">
               <li><a href="tickets.php">Buy Tickets</a></li>
               <li><a href="support.php">Support the CMA</a>
                 <ol class="submenu clearfix">
-                  <li><a href="support.php">Join the CMA</a></li>
-                  <li><a href="support.php">Become a Sponsor</a></li>
-                  <li><a href="support.php">Donate to CMA</a></li>
-                  <li><a href="support.php">Advertise with CMA</a></li>
+                  <li><a href="support.php#friend">Join the CMA</a></li>
+                  <li><a href="support.php#sponsor">Become a Sponsor</a></li>
+                  <li><a href="support.php#donate">Donate to CMA</a></li>
+                  <li><a href="support.php#advertise">Advertise with CMA</a></li>
                 </ol> 
               </li>
-              <li><a href="#!">About</a>
+              <li><a href="about.php">About</a>
                 <ol class="submenu clearfix">
-                  <li><a href="#!">Newsletter</a></li>
-                  <li><a href="#!">Board &amp; Members</a></li>
-                  <li><a href="#!">History</a></li>
-                  <li><a href="#!">More Celtic Music</a></li>
+                  <li><a href="about.php#newsletter">Newsletter</a></li>
+                  <li><a href="about.php#board">Board &amp; Members</a></li>
+                  <li><a href="about.php#history">History</a></li>
+                  <li><a href="about.php#more">More Celtic Music</a></li>
                 </ol> 
               </li>  
-              <li><a href="#!">Contact</a></li>
+              <li><a href="contact.php">Contact</a></li>
             </ol>
         </nav> 
       </div>   

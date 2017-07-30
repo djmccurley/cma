@@ -10,7 +10,8 @@
       <link rel="apple-touch-icon" href="apple-touch-icon.png">
       <!-- Place favicon.ico in the root directory -->
 
-      <!-- <link href="https://fonts.googleapis.com/css?family=Raleway:300,600" rel="stylesheet"> --><link rel="stylesheet" type="text/css" href="css/raleway.css">
+      <!-- <link href="https://fonts.googleapis.com/css?family=Raleway:300,600" rel="stylesheet"> -->
+      <link rel="stylesheet" type="text/css" href="css/raleway.css">
       <link rel="stylesheet" href="css/css.css">
       <script src="js/vendor/modernizr-2.8.3.min.js"></script>
   </head>
@@ -22,7 +23,23 @@
 
     <main>
         <article class="leader">
-            <h1>Support the CMA</h1>
+            <h1>Contact Us</h1>
+        </article>
+
+        <article id="friend" class="content_pane">
+            <div class="content_wrapper">
+                <h2>Social Media</h2>
+                  <a href="https://www.facebook.com/celticmusicassociation/" class="info_link">Find us on Facebook!</a>
+            </div>
+        </article>
+
+        <article id="friend" class="content_pane">
+            <div class="content_wrapper">
+                <h2>Contact Information</h2>
+                  <p>For inquires and sponsor/advertising information, contact</p> 
+                  <a href="#" class="info_link">Joe Smith (smith@thecma.org)</a>
+                  <p>Phone: 515-555-0000</p>
+            </div>
         </article>
 
         <article id="friend" class="content_pane">
@@ -30,25 +47,6 @@
                 <h2>Become a Friend</h2>
                   <p>Complete the form below to become a Friend of the Celtic Music Association</p>
                   <a href="http://www.thecma.org" class="info_link">Membership form (PDF)</a>
-            </div>
-        </article>
-        <article id="sponsor" class="content_pane">
-            <div class="content_wrapper">
-                <h2>Sponsor the CMA</h2>  
-                <p>To become a sponsor, do X Y and Z</p>
-            </div>
-        </article>        
-        <article id="donate" class="content_pane">
-            <div class="content_wrapper">
-                <h2>Donate to the CMA</h2>
-                <p>To make a one-time donation to the CMA, use the form below</p>
-                <a href="#!" class="info_link">Donation Form</a>
-            </div>
-        </article>        
-        <article id="advertise" class="content_pane">
-            <div class="content_wrapper">
-                <h2>Advertise with the CMA</h2>
-                <p>To advertise with the CMA, <a href="#!" class="info_link">contact us here</a></p>
             </div>
         </article>
 

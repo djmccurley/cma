@@ -10,7 +10,8 @@
       <link rel="apple-touch-icon" href="apple-touch-icon.png">
       <!-- Place favicon.ico in the root directory -->
 
-      <link href="https://fonts.googleapis.com/css?family=Raleway:300,600" rel="stylesheet">
+      <!-- <link href="https://fonts.googleapis.com/css?family=Raleway:300,600" rel="stylesheet"> -->
+      <link rel="stylesheet" type="text/css" href="css/raleway.css">
       <link rel="stylesheet" href="css/css.css">
       <script src="js/vendor/modernizr-2.8.3.min.js"></script>
   </head>
@@ -27,7 +28,7 @@
             <p>(Doors open at 7:00 p.m.)</p>
             <p>Season tickets $88 (until Oct. 20)</p> 
             <p>$25 single ticket in advance | $30 at the door</p>
-            <a href="#!" class="cta">Buy Tickets</a>
+            <a href="tickets.php" class="cta">Buy Tickets</a>
         </article>
 
         <article class="content_pane">
