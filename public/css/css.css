@@ -633,6 +633,16 @@ main {
           right: 5%;
           bottom: 5%;
           line-height: 1.5rem; } }
+  main .preview {
+    position: relative; }
+    main .preview h2 {
+      font-weight: 300;
+      color: #fbfbfb;
+      text-align: center;
+      width: 100%;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%); }
   main .leader {
     padding-bottom: 2rem; }
     @media screen and (min-width: 1000px) {

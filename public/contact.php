@@ -29,7 +29,7 @@
         <article id="friend" class="content_pane">
             <div class="content_wrapper">
                 <h2>Social Media</h2>
-                  <a href="https://www.facebook.com/celticmusicassociation/" class="info_link">Find us on Facebook!</a>
+                  <p><a href="https://www.facebook.com/celticmusicassociation/" class="info_link">Find us on Facebook!</a></p>
             </div>
         </article>
 
@@ -46,7 +46,7 @@
             <div class="content_wrapper">
                 <h2>Become a Friend</h2>
                   <p>Complete the form below to become a Friend of the Celtic Music Association</p>
-                  <a href="http://www.thecma.org" class="info_link">Membership form (PDF)</a>
+                  <a href="pdf/cma_friends_form.pdf" class="info_link" target="_blank">Membership form (PDF)</a>
             </div>
         </article>
 

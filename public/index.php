@@ -22,66 +22,13 @@
     <?php include 'php/header.php' ; ?>
 
     <main>
-        <article class="leader">
-            <h1><span class="break">2017 - 2018</span> <span class="break">Concert Season</span></h1>
-            <p class="bold">All concerts start at 8:00 p.m.</p> 
-            <p>(Doors open at 7:00 p.m.)</p>
-            <p>Season tickets $88 (until Oct. 20)</p> 
-            <p>$25 single ticket in advance | $30 at the door</p>
-            <a href="#!" class="cta">Buy Tickets</a>
+        <article class="hero">
+            <img src="img/wood_floor.jpg">
+            <h1>The Celtic Music Association</h1>
+            <p class="subtitle">Central Iowa's Premier Celtic Music Organization since 1992.</p>
         </article>
 
-        <article class="content_pane">
-            <img src="img/skippers_alley.jpg">
-            <div class="content_wrapper">
-                <h2>Skipper’s Alley</h2>
-                <p>Skipper’s Alley are a 7-piece ensemble whose dynamic take on traditional Irish music has garnered wide critical praise and featured on such diverse stages as The Late Late Show, La Festival Interceltique de Lorient, and the Irish Embassy in Zambia.</p>                    
-                <a href="skippers.html" class="info_link"> More about this artist...</a>
-               <p class="place bold">Oct 21, 2017</p>
-               <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
-
-               <a href="#!" class="cta">Buy Tickets</a>
-            </div>
-        </article>
-
-        <article class="content_pane">
-            <img src="img/tallymoore.jpg">
-            <div class="content_wrapper">
-                <h2>Tallymoore</h2>
-                <p>Five-piece band from Dublin. 2013 winners of best Irish music band. This is some test content so it will be changed anyways.</p>                    
-                <a href="#!" class="info_link"> More about this artist...</a>
-               <p class="place bold">January 13, 2018</p>
-               <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
-
-               <a href="#!" class="cta">Buy Tickets</a>
-            </div>
-        </article>
-
-        <article class="content_pane">
-            <img src="img/daimh.jpg">
-            <div class="content_wrapper">
-                <h2>Dàimh</h2>
-                <p> Five-piece band from Dublin. 2013 winners of best Irish music band. This is some test content so it will be changed anyways.</p>                    
-                <a href="#!" class="info_link"> More about this artist...</a>
-               <p class="place bold">Feb 10, 2018</p>
-               <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
-
-               <a href="#!" class="cta">Buy Tickets</a>
-            </div>
-        </article>
-
-        <article class="content_pane">
-            <img src="img/socks_in_the_frying_pan.jpg">
-            <div class="content_wrapper">
-                <h2>Socks in the Frying Pan</h2>
-                <p> Five-piece band from Dublin. 2013 winners of best Irish music band. This is some test content so it will be changed anyways.</p>                    
-                <a href="#!" class="info_link"> More about this artist...</a>
-               <p class="place bold">March 9, 2018</p>
-               <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
-
-               <a href="#!" class="cta">Buy Tickets</a>
-            </div>
-        </article>
+        
 
         <aside class="ad">
             <h2>Our Sponsors</h2>
