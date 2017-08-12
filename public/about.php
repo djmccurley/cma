@@ -24,7 +24,26 @@
         <article class="leader">
             <h1>About the CMA</h1>
         </article>
-
+        <article id="history" class="content_pane">
+            <div class="content_wrapper">
+                <h2>History</h2>
+                <p>The Celtic Music Association originated as a dinner 
+                  topic in the spring of 1992 between Jerry Freeman and 
+                  Tom Crowley. Jerry had moved to Des Moines from Dallas 
+                  and missed the Celtic music scene there. Tom liked 
+                  Irish music and sang a great Irish ballad. In September of 1992, they 
+                  gathered some Irish music lovers together at Cooney’s Tavern in 
+                  Beaverdale to discuss the idea. Deciding it was worth a try, approximately 
+                  15 dedicated people became concert promoters that day. One month later, 
+                  on October 17, the Dublin City Ramblers played to an enthusiastic 
+                  sold-out crowd at Holy Trinity Parish Hall.  
+                  The positive feedback convinced the group there was a market in 
+                  Des Moines for this music. Since then, the Celtic Music Association has sponsored 
+                  three to four concerts a year. It continues to be governed by a volunteer board who 
+                  organize all aspects of the concerts.  The goal of the association is 
+                  to provide quality Celtic music to a loyal audience in a fun, friendly environment.</p>
+            </div>
+        </article> 
         <article id="newsletter" class="content_pane">
             <div class="content_wrapper">
                 <h2>Newsletter</h2>
@@ -59,27 +78,7 @@
                       <li>Eduard Zell</li>
                   </ul>
             </div>
-        </article>        
-        <article id="history" class="content_pane">
-            <div class="content_wrapper">
-                <h2>History</h2>
-                <p>The Celtic Music Association originated as a dinner 
-                  topic in the spring of 1992 between Jerry Freeman and 
-                  Tom Crowley. Jerry had moved to Des Moines from Dallas 
-                  and missed the Celtic music scene there. Tom liked 
-                  Irish music and sang a great Irish ballad. In September of 1992, they 
-                  gathered some Irish music lovers together at Cooney’s Tavern in 
-                  Beaverdale to discuss the idea. Deciding it was worth a try, approximately 
-                  15 dedicated people became concert promoters that day. One month later, 
-                  on October 17, the Dublin City Ramblers played to an enthusiastic 
-                  sold-out crowd at Holy Trinity Parish Hall.  
-                  The positive feedback convinced the group there was a market in 
-                  Des Moines for this music. Since then, the Celtic Music Association has sponsored 
-                  three to four concerts a year. It continues to be governed by a volunteer board who 
-                  organize all aspects of the concerts.  The goal of the association is 
-                  to provide quality Celtic music to a loyal audience in a fun, friendly environment.</p>
-            </div>
-        </article>        
+        </article>               
         <article id="more" class="content_pane">
             <div class="content_wrapper">
                 <h2>More Celtic Music</h2>

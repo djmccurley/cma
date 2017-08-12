@@ -453,6 +453,9 @@ main h1 {
 .feature {
   font-weight: 600; }
 
+i {
+  font-size: 2rem !important; }
+
 html {
   box-sizing: border-box; }
 
@@ -485,7 +488,7 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center; }
-  @media screen and (min-width: 900px) {
+  @media screen and (min-width: 980px) {
     .flex_container {
       display: inline-block; } }
 
@@ -509,11 +512,11 @@ header {
   /* Rectangle 10: */
   background-image: linear-gradient(-180deg, #363636 0%, #1D1C1C 90%);
   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.5); }
-  @media screen and (min-width: 900px) {
+  @media screen and (min-width: 980px) {
     header .header_wrapper {
       width: 85%;
       margin: auto; } }
-  @media screen and (min-width: 1000px) {
+  @media screen and (min-width: 1100px) {
     header .header_wrapper {
       width: 80%; } }
   header .logo {
@@ -521,7 +524,7 @@ header {
     max-width: 200px;
     max-height: 50px;
     margin: 1rem 2rem 1rem 1rem; }
-    @media screen and (min-width: 900px) {
+    @media screen and (min-width: 980px) {
       header .logo {
         width: auto;
         height: 50px;
@@ -531,7 +534,7 @@ header {
     display: none;
     text-align: left;
     font-size: 1.1rem; }
-    @media screen and (min-width: 900px) {
+    @media screen and (min-width: 980px) {
       header .nav_wrapper {
         display: block !important;
         font-size: 1rem;
@@ -542,7 +545,7 @@ header {
     position: static;
     padding: 0;
     margin: 0; }
-    @media screen and (min-width: 900px) {
+    @media screen and (min-width: 980px) {
       header ol {
         position: relative;
         float: left;
@@ -551,7 +554,7 @@ header {
     header ol li {
       line-height: 1.1rem;
       padding: 0; }
-      @media screen and (min-width: 900px) {
+      @media screen and (min-width: 980px) {
         header ol li {
           display: block;
           line-height: 4rem;
@@ -563,12 +566,15 @@ header {
         width: 100%;
         height: 100%;
         padding: 1rem; }
-        @media screen and (min-width: 900px) {
+        @media screen and (min-width: 980px) {
           header ol li a {
             padding: 0rem 1rem; } }
+        @media screen and (min-width: 980px) {
+          header ol li a i {
+            transform: translateY(16%); } }
     header ol a:hover, header ol a:active {
       background-image: linear-gradient(-180deg, #5E5D5D 0%, #2C2C2C 100%); }
-    @media screen and (min-width: 900px) {
+    @media screen and (min-width: 980px) {
       header ol ol {
         display: none;
         position: absolute;
@@ -584,7 +590,7 @@ header {
       line-height: 1.4rem; }
       header ol ol li a {
         padding: 1rem 3rem; }
-        @media screen and (min-width: 900px) {
+        @media screen and (min-width: 980px) {
           header ol ol li a {
             padding: 1rem; } }
   header ol li:hover > ol {
@@ -596,7 +602,7 @@ main {
   margin-top: 0;
   font-size: 1.1rem;
   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.5); }
-  @media screen and (min-width: 900px) {
+  @media screen and (min-width: 980px) {
     main {
       width: 80%;
       margin: auto; } }
@@ -618,7 +624,7 @@ main {
           font-weight: 300;
           color: #fbfbfb;
           right: 5%; } }
-      @media screen and (min-width: 900px) {
+      @media screen and (min-width: 980px) {
         main .hero h1 {
           bottom: 12%;
           font-size: 3.5rem; } }
@@ -633,19 +639,9 @@ main {
           right: 5%;
           bottom: 5%;
           line-height: 1.5rem; } }
-  main .preview {
-    position: relative; }
-    main .preview h2 {
-      font-weight: 300;
-      color: #fbfbfb;
-      text-align: center;
-      width: 100%;
-      position: absolute;
-      top: 50%;
-      transform: translateY(-50%); }
   main .leader {
     padding-bottom: 2rem; }
-    @media screen and (min-width: 1000px) {
+    @media screen and (min-width: 1100px) {
       main .leader {
         padding-bottom: 3rem; } }
     main .leader h1 {
@@ -658,12 +654,12 @@ main {
       font-weight: 300;
       text-align: right;
       color: #fbfbfb; }
-      @media screen and (min-width: 900px) {
+      @media screen and (min-width: 980px) {
         main .leader h1 {
           padding-top: 10rem;
           font-size: 3.5rem;
           line-height: 3.5rem; } }
-      @media screen and (min-width: 1000px) {
+      @media screen and (min-width: 1100px) {
         main .leader h1 {
           padding-top: 10rem; } }
     main .leader p {
@@ -672,16 +668,74 @@ main {
       @media screen and (min-width: 600px) {
         main .leader p {
           padding: 0 2rem; } }
-      @media screen and (min-width: 900px) {
+      @media screen and (min-width: 980px) {
         main .leader p {
           text-align: center;
           padding: 0rem 3rem; } }
-  @media screen and (min-width: 1000px) {
+    main .leader p.leader-copy {
+      text-align: left; }
+  main .feature-grid {
+    margin: -2rem auto 0 auto; }
+    main .feature-grid article {
+      margin-bottom: 1rem; }
+    main .feature-grid .full {
+      width: 100%; }
+      @media screen and (min-width: 600px) {
+        main .feature-grid .full {
+          height: 14rem;
+          background-image: url("../img/concert.jpg");
+          background-position: center; } }
+      @media screen and (min-width: 600px) {
+        main .feature-grid .full img {
+          display: none; } }
+    main .feature-grid .half {
+      width: 100%; }
+      @media screen and (min-width: 600px) {
+        main .feature-grid .half {
+          width: 50%;
+          float: left; } }
+    main .feature-grid .third {
+      width: 100%; }
+      @media screen and (min-width: 600px) {
+        main .feature-grid .third {
+          width: 32%;
+          float: left;
+          margin-left: 1%;
+          height: 10rem;
+          overflow: hidden; }
+          main .feature-grid .third img {
+            min-width: 100%;
+            min-height: 100%; } }
+    main .feature-grid .feature-item {
+      position: relative; }
+      main .feature-grid .feature-item a {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%; }
+        main .feature-grid .feature-item a:link, main .feature-grid .feature-item a:visited {
+          background-color: rgba(0, 0, 0, 0.3);
+          transition: .15s ease all; }
+        main .feature-grid .feature-item a:hover, main .feature-grid .feature-item a:focus, main .feature-grid .feature-item a:active {
+          background-color: rgba(0, 0, 0, 0.7);
+          transition: .15s ease all; }
+        main .feature-grid .feature-item a h2 {
+          font-weight: 300;
+          display: block;
+          color: #fbfbfb;
+          font-size: 2rem;
+          margin: 0;
+          text-align: center;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%); }
+  @media screen and (min-width: 1100px) {
     main .content_pane {
       display: flex;
       align-items: flex-start;
       margin-bottom: 2rem; } }
-  @media screen and (min-width: 1000px) {
+  @media screen and (min-width: 1100px) {
     main .content_pane img {
       flex: 1;
       order: 2;
@@ -690,7 +744,7 @@ main {
   main .content_pane h2 {
     font-size: 2rem;
     line-height: 1; }
-    @media screen and (min-width: 1000px) {
+    @media screen and (min-width: 1100px) {
       main .content_pane h2 {
         margin: 0; } }
   main .content_pane .tickets p {
@@ -703,11 +757,11 @@ main {
     @media screen and (min-width: 600px) {
       main .content_pane .content_wrapper {
         padding: 1rem 2rem; } }
-    @media screen and (min-width: 900px) {
+    @media screen and (min-width: 980px) {
       main .content_pane .content_wrapper {
         padding: 1rem 3rem;
         margin-bottom: 2rem; } }
-    @media screen and (min-width: 1000px) {
+    @media screen and (min-width: 1100px) {
       main .content_pane .content_wrapper {
         flex: 1;
         order: 1;
@@ -716,7 +770,7 @@ main {
           max-width: 100%; } }
   main .content_pane .place {
     text-align: center; }
-    @media screen and (min-width: 900px) {
+    @media screen and (min-width: 980px) {
       main .content_pane .place {
         font-size: 1.25rem; } }
   main .ad h2 {
@@ -736,6 +790,9 @@ footer {
     padding: 1rem;
     color: #B2B248;
     text-decoration: none; }
+    @media screen and (min-width: 980px) {
+      footer a i {
+        transform: translateY(-15%); } }
 
 .cta {
   background-image: linear-gradient(-180deg, #363636 0%, #1D1C1C 90%);
@@ -768,7 +825,7 @@ footer {
     content: " +"; }
   .menu_toggle.expanded:after {
     content: " –"; }
-  @media screen and (min-width: 900px) {
+  @media screen and (min-width: 980px) {
     .menu_toggle {
       display: none; } }
   .menu_toggle:hover, .menu_toggle:active {

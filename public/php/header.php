@@ -6,7 +6,7 @@ echo    '<header class="clearfix">
       <div class="header_wrapper">
         <div class="flex_container">
           <h1 class="visuallyhidden">Celtic Music Association</h1>
-          <a href="concerts.php"><img src="img/cma_logo_1.svg" alt="Celtic Music Association Logo" class="logo"></a>
+          <a href="index.php"><img src="img/cma_logo_1.svg" alt="Celtic Music Association Logo" class="logo"></a>
           <div class="menu_toggle">Menu</div>
         </div>
         <nav class="nav_wrapper clearfix">
@@ -39,6 +39,8 @@ echo    '<header class="clearfix">
                 </ol> 
               </li>  
               <li><a href="contact.php">Contact</a></li>
+              <li><a href="http://facebook.com/" target="_blank" title="Find us on Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+
             </ol>
         </nav> 
       </div>   

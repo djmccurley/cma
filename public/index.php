@@ -12,6 +12,7 @@
 
       <!-- <link href="https://fonts.googleapis.com/css?family=Raleway:300,600" rel="stylesheet"> -->
       <link rel="stylesheet" type="text/css" href="css/raleway.css">
+      <script src="https://use.fontawesome.com/a26c54cc82.js"></script>
       <link rel="stylesheet" href="css/css.css">
       <script src="js/vendor/modernizr-2.8.3.min.js"></script>
   </head>
@@ -22,13 +23,41 @@
     <?php include 'php/header.php' ; ?>
 
     <main>
-        <article class="hero">
-            <img src="img/wood_floor.jpg">
+        <article class="leader">
             <h1>The Celtic Music Association</h1>
-            <p class="subtitle">Central Iowa's Premier Celtic Music Organization since 1992.</p>
+            <p class="leader-copy">The Celtic Music Association is Central Iowa's premier Celtic Music organization. Founded in 1992, the CMA has sponsored an annual concert series and Celtic music events for over a quarter century.</p> 
+            <p class="leader-copy"><a href="about.php" class="info_link">Learn More...</a></p>
         </article>
 
-        
+        <div class="feature-grid clearfix">
+          <article class="feature-item full">
+            <a href="concerts.php">
+              <h2>2017-2018 Concert Series</h2>
+            </a>
+            <img src="img/concert.jpg" alt="Bart the Bear Lodge">
+          </article>
+
+          <article class="feature-item third">
+            <a href="concerts.php">
+              <h2>Buy Tickets</h2>
+            </a>
+            <img src="img/skippers_alley.jpg" alt="Bart the Bear Lodge">
+          </article>
+
+          <article class="feature-item third">
+            <a href="concerts.php">
+              <h2>Support the CMA</h2>
+            </a>
+            <img src="img/socks_in_the_frying_pan.jpg" alt="Bart the Bear Lodge">
+          </article>
+
+          <article class="feature-item third">
+            <a href="concerts.php">
+              <h2>About the CMA</h2>
+            </a>
+            <img src="img/Bokeh01.jpg" alt="Bart the Bear Lodge">
+          </article>
+        </div>
 
         <aside class="ad">
             <h2>Our Sponsors</h2>
@@ -40,7 +69,7 @@
         <div class="border"></div>
         <!-- <div class="asphalt"> -->
             <p>Copyright 2017</p>
-            <a href="#!">Like Us on Facebook</a>
+            <a href="http://facebook.com/" target="_blank" title="Find us on Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
         </div>
     </footer>
 
