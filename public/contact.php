@@ -36,9 +36,15 @@
         <article id="friend" class="content_pane">
             <div class="content_wrapper">
                 <h2>Contact Information</h2>
-                  <p>For inquires and sponsor/advertising information, contact</p> 
-                  <a href="#" class="info_link">Joe Smith (smith@thecma.org)</a>
+                  <p>For inquires and sponsor/advertising information, contact:</p> 
+                  <a href="#" class="info_link">Brian Smith, President (smith@thecma.org)</a>
+                  <p>The Celtic Music Association</p>
+                  <p>PO Box 30001</p>
+                  <p>Des Moines, IA 50310</p>
                   <p>Phone: 515-555-0000</p>
+
+
+
             </div>
         </article>
 

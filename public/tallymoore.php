@@ -41,7 +41,11 @@
                 <p><quote>“Tallymoore is a dynamic, young Celtic band combining top notch musicianship with distinctive singers able to unite their voices to create unique harmonies, as best realized on their latest CD Drive. Seeing them live offers the added bonus of phenomenal showmanship and an ability to make classic songs their own, setting them apart as innovative and seasoned interpreters of the best in Celtic music today.”</quote> – Michael Lange, President & Director, Mad Gael Productions</p>
 
                 <div class="video_wrapper">
-                  <iframe width="853" height="480" src="https://www.youtube.com/embed/G5nbC94J6KM" frameborder="0" allowfullscreen></iframe>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/3SiDoeiEMDE?rel=0" frameborder="0" allowfullscreen></iframe>
+                </div>
+
+                <div class="video_wrapper">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/yz9Rw8kFbQM?rel=0" frameborder="0" allowfullscreen></iframe>
                 </div>
 
                 <p class="place"><a href="http://tallymoore.com" class="info_link">Tallymoore</a></p>

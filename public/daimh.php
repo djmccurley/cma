@@ -39,10 +39,13 @@
 
                 <p>Dàimh have carved a reputation from the bedrock of Gaelic culture... authentic Gaelic music with a modern edge and a magnificent range of expression. This could be one of the best Scottish releases of 2014. FOLKWORLD</p>   
                
-               <div class="video_wrapper">
+                <div class="video_wrapper">
                   <iframe width="853" height="480" src="https://www.youtube.com/embed/VWnmI6SRCRA" frameborder="0" allowfullscreen></iframe>
                 </div>
 
+                <div class="video_wrapper">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/En8FlN8v2X8?rel=0" frameborder="0" allowfullscreen></iframe>
+                </div>
                 <p class="place"><a href="https://www.daimh.net/" class="info_link">Dàimh</a></p>
 
 

@@ -83,9 +83,7 @@
             <div class="content_wrapper">
                 <h2>More Celtic Music</h2>
                 <ul>
-                  <li><a href="#!" class="info_link">Milwauke Irish Fest</a></li>
-                  <li><a href="#!" class="info_link">Other resources</a></li>
-                  <li><a href="#!" class="info_link">Etc. Etc.</a></li>
+                  <li><a href="http://irishfest.com/" class="info_link">Milwaukee Irish Fest</a></li>
                 </ul>
             </div>
         </article>

@@ -45,7 +45,9 @@
                 <div class="video_wrapper">
                   <iframe width="853" height="480" src="https://www.youtube.com/embed/MuPsKgE0Um4" frameborder="0" allowfullscreen></iframe>
                 </div>
-
+                <div class="video_wrapper">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/UGuwC9rmyJo?rel=0" frameborder="0" allowfullscreen></iframe>
+                </div>  
               <p class="place"><a href="https://skippersalley.bandcamp.com" class="info_link">Skippers Alley</a></p>           
                <p class="place bold">Oct 21, 2017</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>    
