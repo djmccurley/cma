@@ -89,13 +89,7 @@
         </aside>    
     </main>
 
-    <footer class="clearfix">
-        <div class="border"></div>
-        <!-- <div class="asphalt"> -->
-            <p>Copyright 2017</p>
-            <a href="#!">Like Us on Facebook</a>
-        </div>
-    </footer>
+    <?php include 'php/footer.php' ; ?>
 
     <script src="js/vendor/jquery-3.2.1.min.js"></script>
     <script src="js/plugins.js"></script>

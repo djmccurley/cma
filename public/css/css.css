@@ -774,8 +774,10 @@ main {
     @media screen and (min-width: 980px) {
       main .content_pane .place {
         font-size: 1.25rem; } }
-  main .ad h2 {
-    padding: 0 1rem; }
+  main .ad {
+    display: none; }
+    main .ad h2 {
+      padding: 0 1rem; }
 
 footer {
   font-size: .8rem;

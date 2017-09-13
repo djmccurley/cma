@@ -39,7 +39,7 @@ echo    '<header class="clearfix">
                 </ol> 
               </li>  
               <li><a href="contact.php">Contact</a></li>
-              <li><a href="http://facebook.com/" target="_blank" title="Find us on Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.facebook.com/celticmusicassociation/" target="_blank" title="Find us on Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
 
             </ol>
         </nav> 
