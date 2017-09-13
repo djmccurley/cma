@@ -35,20 +35,24 @@
         <article id="sponsor" class="content_pane">
             <div class="content_wrapper">
                 <h2>Sponsor the CMA</h2>  
-                <p>To become a sponsor, do X Y and Z</p>
+                <p>To become a sponsor, <a href="mailto:mail@thecma.org" class="info_link">contact us here</a></p>
             </div>
         </article>        
         <article id="donate" class="content_pane">
             <div class="content_wrapper">
                 <h2>Donate to the CMA</h2>
-                <p>To make a one-time donation to the CMA, use the form below</p>
-                <a href="#!" class="info_link">Donation Form</a>
+                <p>To become a sponsor, <a href="mailto:mail@thecma.org" class="info_link">contact us here</a></p>
+                <p class="bold">Or send your donation to:</p>
+                <p>The Celtic Music Association</p>
+                <p>PO Box 30001</p>
+                <p>Des Moines, IA 50310</p>
+                <p>Phone: 515-555-0000</p>
             </div>
         </article>        
         <article id="advertise" class="content_pane">
             <div class="content_wrapper">
                 <h2>Advertise with the CMA</h2>
-                <p>To advertise with the CMA, <a href="#!" class="info_link">contact us here</a></p>
+                <p>To advertise in the CMA program, <a href="mailto:mail@thecma.org" class="info_link">contact us here</a></p>
             </div>
         </article>
 

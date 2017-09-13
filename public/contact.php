@@ -37,7 +37,7 @@
             <div class="content_wrapper">
                 <h2>Contact Information</h2>
                   <p>For inquires and sponsor/advertising information, contact:</p> 
-                  <a href="#" class="info_link">Brian Smith, President (smith@thecma.org)</a>
+                  <a href="mailto:president@thecma.org" class="info_link">Brian Smith, President (president@thecma.org)</a>
                   <p>The Celtic Music Association</p>
                   <p>PO Box 30001</p>
                   <p>Des Moines, IA 50310</p>
