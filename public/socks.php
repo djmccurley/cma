@@ -12,6 +12,7 @@
 
      <!--  <link href="https://fonts.googleapis.com/css?family=Raleway:300,600" rel="stylesheet"> --><link rel="stylesheet" type="text/css" href="css/raleway.css">
       <link rel="stylesheet" href="css/css.css">
+      <script src="https://use.fontawesome.com/a26c54cc82.js"></script>
       <script src="js/vendor/modernizr-2.8.3.min.js"></script>
   </head>
   <body>
