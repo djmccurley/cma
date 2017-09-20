@@ -38,16 +38,30 @@
 
         <article class="content_pane">
             <div class="content_wrapper tickets">
-                <h2>Ticket Outlets</h2>
+                <h2>Season and Single Ticket Outlets</h2>
+
                   <h3>Celtic Music Association</h3>
                   <p>515-771-2215 (check only)</p>
                   <p>P. O. Box 30001, Des Moines, Iowa 50310</p>
                   <a href="http://www.thecma.org">www.thecma.org</a>
 
+                  <h3>A Celtic Tradition</h3>
+                  <p>515-278-8302 (cash or check only)</p>
+                  <p>7672 Hickman Rd., Windsor Heights, IA 50324 </p>
+                  <a href="http://www.2celts.com">www.2celts.com</a>
+
                   <h3>Holy Trinity Parish Office</h3>
                   <p>515-255-3162 (cash or check only) </p>
                   <p>2926 Beaver Ave., Des Moines, IA 50310</p>
                   <a href="http://www.htschool.org">www.htschool.org</a>
+
+                  <h3>Board Members</h3>
+                  <p>Season and single tickets are also available from <a href="about.php">CMA Board members.</a> </p>
+            </div>
+        </article>
+<article class="content_pane">
+            <div class="content_wrapper tickets">
+                <h2>Single Ticket Outlets</h2>
 
                   <h3>Cooney’s Tavern</h3>
                   <p>515-255-5566 (cash or check only)</p>
@@ -58,11 +72,6 @@
                   <p>515-277-1045 (cash or check only)</p>
                   <p>2714 Beaver Ave., Des Moines, IA 50310</p>
                   <a href="http://www.uptempo-music.com">www.uptempo-music.com</a>
-
-                  <h3>A Celtic Tradition</h3>
-                  <p>515-278-8302 (cash or check only)</p>
-                  <p>7672 Hickman Rd., Windsor Heights, IA 50324 </p>
-                  <a href="http://www.2celts.com">www.2celts.com</a>
                   
                   <h3>Red Truck Tickets (credit and debit)</h3>
                   <a href="http://www.redtrucktickets.com">www.redtrucktickets.com</a>
@@ -82,7 +91,6 @@
                   <a href="http://www.ticketmaster.com">www.ticketmaster.com</a>
             </div>
         </article>
-
         <aside class="ad">
             <h2>Our Sponsors</h2>
             <img src="http://placehold.it/800x300">

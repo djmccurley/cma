@@ -599,6 +599,7 @@ header {
     z-index: 2; }
 
 main {
+  min-height: 85vh;
   background-color: #fbfbfb;
   margin-top: 0;
   font-size: 1.1rem;

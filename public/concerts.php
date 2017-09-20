@@ -78,7 +78,7 @@
                 <p>Socks in the Frying Pan are a multi-award winning trio from County Clare on the West coast of Ireland, the universal hub of Irish traditional music. Their dynamic vocal harmonies, virtuosic musical ability and their onstage wit has captured and captivated audiences the world around. One of the most sought after groups in Irish music today, the worldwide ‘Sock Invasion’ continues!</p>                    
                 <a href="socks.php" class="info_link"> More about this artist...</a>
                <p class="place bold">March 9, 2018</p>
-               <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
+               <p><span class="place break bold">Hoyt Sherman</span> <span class="place break bold">1501 Woodland Ave.</span> <span class="place break bold">Des Moines</span></p>
 
                <a href="tickets.php" class="cta">Buy Tickets</a>
             </div>

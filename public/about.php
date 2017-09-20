@@ -49,6 +49,7 @@
             <div class="content_wrapper">
                 <h2>Newsletter</h2>
                 <ol>
+                  <li><a href="pdf/cma_newsletter_9_17.pdf" class="info_link">September 2017</a></li>
                   <li><a href="pdf/cma_newsletter_2_17.pdf" class="info_link">February 2017</a></li>
                 </ol>
             </div>
@@ -57,6 +58,10 @@
             <div class="content_wrapper">
                 <h2>Board</h2>  
                   <ul>
+                    <li class="bold">Brian Smith - President</li>
+                    <li class="bold">Kevin Leopold - Vice President</li>
+                    <li class="bold">Julie Leopold - Vice Presdent</li>
+                    <li class="bold">Denise Dooley - Treasurer</li>
                     <li>Lynn Beary</li>
                     <li>Colleen Bush</li>
                     <li>Cheryl Cibula</li>
@@ -66,17 +71,18 @@
                     <li>Kathleen Gradoville</li>
                     <li>Bernie Gradoville</li>
                     <li>Jerry Grady</li>
-                    <li>Doug Jones</li>
                     <li>Terry Kleinhesselink</li>
                     <li>Virgil Kleinhesselink</li>
-                    <li>Cathryn Lang</li>
-                    <li>Kevin Leopold</li>
-                    <li>Julie Leopold</li>
-                    <li>Brian Smith</li>
+                    <li>Cathryn Lang</li>  
                     <li>Margaret Stoffregen</li>
                     <li>Clark Williams</li>
                     <li>Stu Walker</li>
-                      <li>Eduard Zell</li>
+                    <li>Eduard Zell</li>
+                    <li>Dan McCurley (Web Design) – <a href="http://djmccurley.com" target="_blank">djmccurley.com</a></li>
+                  </ul>  
+                <h2></h2>    
+                    
+                    
                   </ul>
             </div>
         </article>               

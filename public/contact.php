@@ -42,7 +42,7 @@
                   <p>The Celtic Music Association</p>
                   <p>PO Box 30001</p>
                   <p>Des Moines, IA 50310</p>
-                  <p>Phone: 515-555-0000</p>
+                  <!-- <p>Phone: 515-555-0000</p> -->
 
 
 

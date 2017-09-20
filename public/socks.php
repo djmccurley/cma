@@ -26,7 +26,7 @@
             <img src="img/socks_in_the_frying_pan_bg.jpg">
             
               <h1>Socks in the Frying Pan</h1>
-              <p class=""><span class="break">March 9, 2018</span> Holy Trinity Hall, 2926 Beaver Ave, Des Moines</p>
+              <p class=""><span class="break">March 9, 2018</span> Hoyt Sherman, 1501 Woodland Ave, Des Moines</p>
 
         </article>
         <article class="content_pane">
@@ -46,7 +46,7 @@
                 <p class="place"><a href="http://www.socksinthefryingpan.com/" class="info_link">Socks in the Frying Pan</a></p>
                
                <p class="place bold">March 9, 2018</p>
-               <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>    
+               <p><span class="place break bold">Hoyt Sherman</span> <span class="place break bold">1501 Woodland Ave.</span> <span class="place break bold">Des Moines</span></p>
                
 
                <a href="tickets.php" class="cta">Buy Tickets</a>
