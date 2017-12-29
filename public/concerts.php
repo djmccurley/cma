@@ -62,7 +62,7 @@
             <img src="img/daimh.jpg">
             <div class="content_wrapper">
                 <h2>Dàimh</h2>
-                <p>ormed around the turn of the century and taking the name from the Gaelic word for "kinship" Daimh (pronounced Dive) have taken their contemporary take of Highland and Gaelic music to over 20 countries,  setting audiences alight from Moscow to San Francisco.</p>                    
+                <p>Formed around the turn of the century and taking the name from the Gaelic word for "kinship" Daimh (pronounced Dive) have taken their contemporary take of Highland and Gaelic music to over 20 countries,  setting audiences alight from Moscow to San Francisco.</p>                    
                 <a href="daimh.php" class="info_link"> More about this artist...</a>
                <p class="place bold">Feb 10, 2018</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>

@@ -73,8 +73,6 @@
                   <p>2714 Beaver Ave., Des Moines, IA 50310</p>
                   <a href="http://www.uptempo-music.com">www.uptempo-music.com</a>
                   
-                  <h3>Red Truck Tickets (credit and debit)</h3>
-                  <a href="http://www.redtrucktickets.com">www.redtrucktickets.com</a>
 
                   <h3>Mainstream Boutique</h3>
                   <p>515-277-4117 (cash or check only)</p>

@@ -49,6 +49,7 @@
             <div class="content_wrapper">
                 <h2>Newsletter</h2>
                 <ol>
+                  <li><a href="pdf/cma_newsletter_12_17.pdf" class="info_link">December 2017</a></li>
                   <li><a href="pdf/cma_newsletter_9_17.pdf" class="info_link">September 2017</a></li>
                   <li><a href="pdf/cma_newsletter_2_17.pdf" class="info_link">February 2017</a></li>
                 </ol>
