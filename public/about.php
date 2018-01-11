@@ -44,6 +44,11 @@
                   organize all aspects of the concerts.  The goal of the association is 
                   to provide quality Celtic music to a loyal audience in a fun, friendly environment.</p>
             </div>
+            <div class="content_wrapper">      
+                  <h2>Previous Concerts</h2>
+                  <ul>
+                  <li><a href="pdf/CMACommPoster.pdf" class="info_link">View the 25th Anniversary Poster (.pdf)</a></li></ul>
+            </div>
         </article> 
         <article id="newsletter" class="content_pane">
             <div class="content_wrapper">
