@@ -30,9 +30,7 @@
         <article class="content_pane">
             <div class="content_wrapper">
                 <h2>Ticket Info</h2>
-                <p>Season tickets $88 (until Oct. 20)</p> 
-                <p>$25 single ticket in advance</p>
-                 <p>$30 at the door</p>
+                <p>2018 – 2019 ticket information coming soon.</p>
             </div>
         </article>
 
@@ -44,11 +42,6 @@
                   <p>515-771-2215 (check only)</p>
                   <p>P. O. Box 30001, Des Moines, Iowa 50310</p>
                   <a href="http://www.thecma.org">www.thecma.org</a>
-
-                  <h3>A Celtic Tradition</h3>
-                  <p>515-278-8302 (cash or check only)</p>
-                  <p>7672 Hickman Rd., Windsor Heights, IA 50324 </p>
-                  <a href="http://www.2celts.com">www.2celts.com</a>
 
                   <h3>Holy Trinity Parish Office</h3>
                   <p>515-255-3162 (cash or check only) </p>
