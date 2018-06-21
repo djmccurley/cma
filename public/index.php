@@ -32,7 +32,7 @@
         <div class="feature-grid clearfix">
           <article class="feature-item full">
             <a href="concerts.php">
-              <h2>2017-2018 Concert Series</h2>
+              <h2>2018-2019 Concert Series</h2>
             </a>
             <img src="img/concert.jpg" alt="Bart the Bear Lodge">
           </article>
