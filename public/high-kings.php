@@ -22,34 +22,31 @@
     <?php include 'php/header.php' ; ?>
 
     <main>
-        <article class="leader">
-            <h1>Support the CMA</h1>
+        <article class="hero">
+            <img src="img/high-kings-bg.jpg">
+            
+              <h1>The High Kings</h1>
+              <p class=""><span class="break">August 02, 2018</span> Hoyt Sherman Place, 1501 Woodland Ave, Des Moines</p>
+
+        </article>
+        <article class="content_pane">
+            <div class="content_wrapper">
+
+                <p class="feature">Multi Platinum Artists, The High Kings now signed to Sony International. Ireland’s folk band comprising Brian Dunphy, Finbar Clancy, Darren Holden and George Murphy. Internationally acclaimed singers of Irish folk songs. </p>
+
+                <p>A quartet of accomplished musical pedigrees, the band first exploded onto the Irish folk music scene in 2008. They have sold out hundreds of shows, in Ireland and the US, and appeared on numerous TV shows. The High Kings showcase their incredible versatility and skills as multi-instrumentalists, playing 13 instruments between the four of them, bringing a rousing acoustic flavour to brand new songs as well as some old favourites. The album Friends for Life captures the essence of the ensemble’s energetic sound of ‘folk n roll’ and even the occasional sing-a-long.</p>
+
+                <p class="place"><a href="https://www.thehighkings.com/" class="info_link">The High Kings</a></p>
+
+
+               <p class="place bold">August 02, 2018 – 7:30 PM</p>
+               <p><span class="place break bold">Hoyt Sherman Place</span> <span class="place break bold">1501 Woodland Ave.</span> <span class="place break bold">Des Moines</span></p>  
+               <p class="place"><span class="bold">Tickets:</span> $30 in advance | $35 at the door</p>
+               <a href="tickets.php" class="cta">Buy Tickets</a>
+               <p class="place"><a href="https://www.facebook.com/events/1633272490120557/" class="info_link">RSVP on Facebook</a></p>
+            </div>
         </article>
 
-        <article id="friend" class="content_pane">
-            <div class="content_wrapper">
-                <h2>Become a Friend</h2>
-                  <p>Complete the form below to become a Friend of the Celtic Music Association</p>
-                  <a href="pdf/cma_friends_form.pdf" target="_blank" class="info_link">Membership form (PDF)</a>
-            </div>
-        </article>      
-        <article id="donate" class="content_pane">
-            <div class="content_wrapper">
-                <h2>Donate to the CMA</h2>
-                <p>To become a sponsor, <a href="mailto:mail@thecma.org" class="info_link">contact us here</a></p>
-                <p class="bold">Or send your donation to:</p>
-                <p>The Celtic Music Association</p>
-                <p>PO Box 30001</p>
-                <p>Des Moines, IA 50310</p>
-                <p>Phone: 515-555-0000</p>
-            </div>
-        </article>        
-        <article id="advertise" class="content_pane">
-            <div class="content_wrapper">
-                <h2>Advertise with the CMA</h2>
-                <p>To advertise in the CMA program, <a href="mailto:mail@thecma.org" class="info_link">contact us here</a></p>
-            </div>
-        </article>
 
         <aside class="ad">
             <h2>Our Sponsors</h2>
@@ -73,4 +70,4 @@
         ga('create','UA-XXXXX-X','auto');ga('send','pageview');
     </script>
   </body>
-  </html>
+</html>

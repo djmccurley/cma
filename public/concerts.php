@@ -24,15 +24,17 @@
 
     <main>
         <article class="leader">
-            <h1><span class="break">2017 - 2018</span> <span class="break">Concert Season</span></h1>
-            <p class="bold">All concerts start at 8:00 p.m.</p> 
+            <h1><span class="break">2018 - 2019</span> <span class="break">Concert Season</span></h1>
+            <p class="bold">2018 – 2019 Concert Season &amp; ticket information coming soon!</p>
+            <p>Check back for more info in the coming weeks.</p>
+<!--             <p class="bold">All concerts start at 8:00 p.m.</p> 
             <p>(Doors open at 7:00 p.m.)</p>
             <p>Season tickets $88 (until Oct. 20)</p> 
             <p>$25 single ticket in advance | $30 at the door</p>
-            <a href="tickets.php" class="cta">Buy Tickets</a>
+            <a href="tickets.php" class="cta">Buy Tickets</a> -->
         </article>
 
-        <article class="content_pane">
+       <!--  <article class="content_pane">
             <img src="img/skippers_alley.jpg">
             <div class="content_wrapper">
                 <h2>Skipper’s Alley</h2>
@@ -82,7 +84,7 @@
 
                <a href="tickets.php" class="cta">Buy Tickets</a>
             </div>
-        </article>
+        </article> -->
 
         <aside class="ad">
             <h2>Our Sponsors</h2>
