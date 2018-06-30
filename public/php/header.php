@@ -16,6 +16,10 @@ echo    '<header class="clearfix">
                 <ol class="submenu clearfix">
                   <li><a href="high-kings.php">The High Kings</a></li>
                   <li><a href="concerts.php">2018 – 2019 Season</a></li>
+                  <li><a href="fitzgeralds.php">The Fitzgeralds</a></li>
+                  <li><a href="connla.php">Connla</a></li>
+                  <li><a href="eileen-ivers.php">Eileen Ivers</a></li>
+                  <li><a href="jigjam.php">JigJam</a></li>
                 </ol>   
               </li>
               <li><a href="tickets.php">Buy Tickets</a></li>
