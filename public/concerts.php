@@ -27,20 +27,22 @@
             <h1><span class="break">2018 - 2019</span> <span class="break">Concert Season</span></h1>
             <p class="bold">2018 – 2019 Concert Season &amp; ticket information coming soon!</p>
             <p>Check back for more info in the coming weeks.</p>
-<!--             <p class="bold">All concerts start at 8:00 p.m.</p> 
+<p class="bold">All concerts start at 8:00 p.m.</p> 
             <p>(Doors open at 7:00 p.m.)</p>
-            <p>Season tickets $88 (until Oct. 20)</p> 
-            <p>$25 single ticket in advance | $30 at the door</p>
-            <a href="tickets.php" class="cta">Buy Tickets</a> -->
+            <p>Season tickets $88 (until Oct. 06)</p> 
+            <p><span class="bold">Holy Trinity Concerts:</span> $25 single ticket in advance | $30 at the door</p>
+            <p><span class="bold">Hoyt Sherman Concerts:</span> $30 single ticket in advance | $35 at the door</p>
+            <a href="tickets.php" class="cta">Buy Tickets</a>
         </article>
 
-       <!--  <article class="content_pane">
-            <img src="img/skippers_alley.jpg">
+        <article class="content_pane">
+            <img src="img/fitzgeralds.jpg">
             <div class="content_wrapper">
-                <h2>Skipper’s Alley</h2>
-                <p>Skipper’s Alley are a 7-piece ensemble whose dynamic take on traditional Irish music has garnered wide critical praise and featured on such diverse stages as The Late Late Show, La Festival Interceltique de Lorient, and the Irish Embassy in Zambia.</p>                    
-                <a href="skippers.php" class="info_link"> More about this artist...</a>
-               <p class="place bold">Oct 21, 2017</p>
+                <h2>The Fitzgeralds</h2>
+                <p>Featuring 3-time Canadian Grandmaster Fiddle Champions and Ontario Open Step Dance Champions, this unique act features high-energy fiddling and mind-blowing step dancing. It is the rare combination of exceptional musicianship, incomparable step dancing, audience interaction, evident love of performing, and genuine sibling connection that resonates with audiences of all ages and sets this group apart.</p>
+
+                <a href="fitzgeralds.php" class="info_link"> More about this artist...</a>
+               <p class="place bold">October 06, 2018</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
 
                <a href="tickets.php" class="cta">Buy Tickets</a>
@@ -48,25 +50,12 @@
         </article>
 
         <article class="content_pane">
-            <img src="img/tallymoore.jpg">
+            <img src="img/connla.jpg">
             <div class="content_wrapper">
-                <h2>Tallymoore</h2>
-                <p>Tallymoore is a contemporary Irish Folk band from Milwaukee, Wisconsin performing a range of Irish and Scottish folk tunes, ballads, reels and classic pub songs. The group also incorporates acoustic and vocal material from broader Celtic, traditional country, bluegrass, and Americana sources.</p>                    
-                <a href="tallymoore.php" class="info_link"> More about this artist...</a>
-               <p class="place bold">January 13, 2018</p>
-               <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
-
-               <a href="tickets.php" class="cta">Buy Tickets</a>
-            </div>
-        </article>
-
-        <article class="content_pane">
-            <img src="img/daimh.jpg">
-            <div class="content_wrapper">
-                <h2>Dàimh</h2>
-                <p>Formed around the turn of the century and taking the name from the Gaelic word for "kinship" Daimh (pronounced Dive) have taken their contemporary take of Highland and Gaelic music to over 20 countries,  setting audiences alight from Moscow to San Francisco.</p>                    
-                <a href="daimh.php" class="info_link"> More about this artist...</a>
-               <p class="place bold">Feb 10, 2018</p>
+                <h2>Connla</h2>
+                <p>Hailing from the cities of Armagh and Derry, Ciara McCafferty (vocals), Ciaran Carlin (Flute/Whistles) and Paul Starrett (Guitar) Emer Mallon (Harp) and Conor Mallon (Uilleann Pipes/Whistles). Labelled as the Hottest New Group out of Northern Ireland, (Chicago Irish American News) Connla have been quickly making an impact on the folk/traditional scene.</p>
+                <a href="connla.php" class="info_link"> More about this artist...</a>
+               <p class="place bold">Jan 12, 2019</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
 
                <a href="tickets.php" class="cta">Buy Tickets</a>
@@ -84,7 +73,7 @@
 
                <a href="tickets.php" class="cta">Buy Tickets</a>
             </div>
-        </article> -->
+        </article>
 
         <aside class="ad">
             <h2>Our Sponsors</h2>

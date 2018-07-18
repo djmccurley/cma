@@ -41,14 +41,14 @@
             <a href="tickets.php">
               <h2>Buy Tickets</h2>
             </a>
-            <img src="img/skippers_alley.jpg" alt="Bart the Bear Lodge">
+            <img src="img/connla.jpg" alt="Bart the Bear Lodge">
           </article>
 
           <article class="feature-item third">
             <a href="support.php">
               <h2>Support the CMA</h2>
             </a>
-            <img src="img/socks_in_the_frying_pan.jpg" alt="Bart the Bear Lodge">
+            <img src="img/connla.jpg" alt="Bart the Bear Lodge">
           </article>
 
           <article class="feature-item third">
