@@ -48,7 +48,7 @@
             <a href="support.php">
               <h2>Support the CMA</h2>
             </a>
-            <img src="img/connla.jpg" alt="Bart the Bear Lodge">
+            <img src="img/eileen-ivers.jpg" alt="Bart the Bear Lodge">
           </article>
 
           <article class="feature-item third">

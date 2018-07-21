@@ -63,12 +63,12 @@
         </article>
 
         <article class="content_pane">
-            <img src="img/socks_in_the_frying_pan.jpg">
+            <img src="img/eileen-ivers.jpg">
             <div class="content_wrapper">
-                <h2>Socks in the Frying Pan</h2>
-                <p>Socks in the Frying Pan are a multi-award winning trio from County Clare on the West coast of Ireland, the universal hub of Irish traditional music. Their dynamic vocal harmonies, virtuosic musical ability and their onstage wit has captured and captivated audiences the world around. One of the most sought after groups in Irish music today, the worldwide ‘Sock Invasion’ continues!</p>                    
-                <a href="socks.php" class="info_link"> More about this artist...</a>
-               <p class="place bold">March 9, 2018</p>
+                <h2>Eileen Ivers</h2>
+                <p>It is a rare and select grade of spectacular artists whose work is so boldly imaginative and clearly virtuosic that it alters the medium. It has been said that the task of respectfully exploring the traditions and progression of the Celtic fiddle is quite literally on Eileen Ivers' shoulders.</p>
+                <a href="eileen-ivers.php" class="info_link"> More about this artist...</a>
+               <p class="place bold">February 8, 2019</p>
                <p><span class="place break bold">Hoyt Sherman</span> <span class="place break bold">1501 Woodland Ave.</span> <span class="place break bold">Des Moines</span></p>
 
                <a href="tickets.php" class="cta">Buy Tickets</a>

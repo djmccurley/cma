@@ -45,6 +45,10 @@ set. The warmth, energy and enthusiasm has hooked generations from young to seni
                   <iframe width="560" height="315" src="https://www.youtube.com/embed/JXBbQGVL8zA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
 
+                <div class="video_wrapper">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/66SFiuslapY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </div>
+
                 <p class="place"><a href="http://www.thefitzgeralds.net/" class="info_link">The Fitzgeralds</a></p>
 
 
