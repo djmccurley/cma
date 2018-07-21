@@ -80,7 +80,7 @@
                 <p>JigJam is a multi-award winning quartet from the heart of the midlands in Ireland. Blending the best of traditional Irish music with bluegrass and Americana in a new genre which has been branded as ‘CeltGrass’, their onstage energy along with their virtuos musical ability has captivated audiences throughout the world.</p>
                 <a href="jigjam.php" class="info_link"> More about this artist...</a>
                <p class="place bold">March 09, 2019</p>
-               <p><span class="place break bold">Hoyt Sherman</span> <span class="place break bold">1501 Woodland Ave.</span> <span class="place break bold">Des Moines</span></p>
+               <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
 
                <a href="tickets.php" class="cta">Buy Tickets</a>
             </div>
