@@ -26,22 +26,35 @@
             <img src="img/fitzgeralds-bg.jpg">
             
               <h1>The Fitzgeralds</h1>
-              <p class=""><span class="break">August 02, 2018</span> Hoyt Sherman Place, 1501 Woodland Ave, Des Moines</p>
+              <p class=""><span class="break">October 06, 2018</span> Holy Trinity Hall, 2926 Beaver Ave, Des Moines</p>
 
         </article>
         <article class="content_pane">
             <div class="content_wrapper">
 
-                <p class="feature">Multi Platinum Artists, The High Kings now signed to Sony International. Ireland’s folk band comprising Brian Dunphy, Finbar Clancy, Darren Holden and George Murphy. Internationally acclaimed singers of Irish folk songs. </p>
+                <p>Meet the Fitzgeralds: a family group consisting of fiddling and step dancing siblings – Tom, Kerry &amp; Julie Fitzgerald. These siblings, from just outside of Canada’s renowned Ottawa Valley, have come a long way from their small town roots. Featuring 3-time Canadian Grandmaster Fiddle Champions and Ontario Open Step Dance Champions, this unique act features high-energy fiddling and mind-blowing step dancing. It is the rare combination of exceptional musicianship, incomparable step dancing, audience interaction, evident love of performing, and genuine sibling connection that resonates with audiences of all ages and sets this group apart.</p>
 
-                <p>A quartet of accomplished musical pedigrees, the band first exploded onto the Irish folk music scene in 2008. They have sold out hundreds of shows, in Ireland and the US, and appeared on numerous TV shows. The High Kings showcase their incredible versatility and skills as multi-instrumentalists, playing 13 instruments between the four of them, bringing a rousing acoustic flavour to brand new songs as well as some old favourites. The album Friends for Life captures the essence of the ensemble’s energetic sound of ‘folk n roll’ and even the occasional sing-a-long.</p>
+                <p class="feature">&quot;The Fitzgeralds are standout musicians in our Canadian music industry...The caliber of musicianship is very high- I think together they are a beautiful blend of gorgeous fiddle music, and top rate, absolutely exhilarating dance routines.&quot; -Natalie MacMaster, Cape Breton Fiddling Sensation </p>
 
-                <p class="place"><a href="https://www.thehighkings.com/" class="info_link">The High Kings</a></p>
+                <p>The Fitzgerald siblings were raised in a musical household, and toured internationally with their family band “Everything Fitz”. Growing up in the Ottawa Valley, they were immersed in the rich tradition of Canadian Old Time fiddling and step dancing that evolved with the arrival of Irish, Scottish and French immigrants. Over time, they have developed their art form to include various styles of fiddle music including Celtic, jazz, bluegrass, French-Canadian, and pop. They have also explored other dance forms including tap and Irish. The siblings continue to push boundaries by fusing traditional and modern styles of fiddle and dance to create their own unique sound and style. Their creativity and passion for experimentation has led them to compose original tunes and arrangements, some which were released on their latest album. The result is a groovy and catchy new sound and look that appeals to all ages.</p>
+
+                <p class="feature">“No group has generated as much curiosity, compelling our audience to return for a second
+set. The warmth, energy and enthusiasm has hooked generations from young to senior, then the talent lets loose - pure vibrant magic.” -John O’Brien, Director of Cleveland Irish Cultural Festival, OH</p>
+
+                <div class="video_wrapper">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/JXBbQGVL8zA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </div>
+
+                <div class="video_wrapper">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/66SFiuslapY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </div>
+
+                <p class="place"><a href="http://www.thefitzgeralds.net/" class="info_link">The Fitzgeralds</a></p>
 
 
-               <p class="place bold">August 02, 2018 – 7:30 PM</p>
-               <p><span class="place break bold">Hoyt Sherman Place</span> <span class="place break bold">1501 Woodland Ave.</span> <span class="place break bold">Des Moines</span></p>  
-               <p class="place"><span class="bold">Tickets:</span> $30 in advance | $35 at the door</p>
+               <p class="place bold">October 06, 2018 – 8:00 PM</p>
+               <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>  
+               <p class="place"><span class="bold">Tickets:</span> $25 in advance | $30 at the door</p>
                <a href="tickets.php" class="cta">Buy Tickets</a>
                <p class="place"><a href="https://www.facebook.com/events/1633272490120557/" class="info_link">RSVP on Facebook</a></p>
             </div>
