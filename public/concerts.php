@@ -68,7 +68,20 @@
                 <h2>Eileen Ivers</h2>
                 <p>It is a rare and select grade of spectacular artists whose work is so boldly imaginative and clearly virtuosic that it alters the medium. It has been said that the task of respectfully exploring the traditions and progression of the Celtic fiddle is quite literally on Eileen Ivers' shoulders.</p>
                 <a href="eileen-ivers.php" class="info_link"> More about this artist...</a>
-               <p class="place bold">February 8, 2019</p>
+               <p class="place bold">February 08, 2019</p>
+               <p><span class="place break bold">Hoyt Sherman</span> <span class="place break bold">1501 Woodland Ave.</span> <span class="place break bold">Des Moines</span></p>
+
+               <a href="tickets.php" class="cta">Buy Tickets</a>
+            </div>
+        </article>
+
+        <article class="content_pane">
+            <img src="img/jigjam.jpg">
+            <div class="content_wrapper">
+                <h2>JigJam</h2>
+                <p>JigJam is a multi-award winning quartet from the heart of the midlands in Ireland. Blending the best of traditional Irish music with bluegrass and Americana in a new genre which has been branded as ‘CeltGrass’, their onstage energy along with their virtuos musical ability has captivated audiences throughout the world.</p>
+                <a href="jigjam.php" class="info_link"> More about this artist...</a>
+               <p class="place bold">March 09, 2019</p>
                <p><span class="place break bold">Hoyt Sherman</span> <span class="place break bold">1501 Woodland Ave.</span> <span class="place break bold">Des Moines</span></p>
 
                <a href="tickets.php" class="cta">Buy Tickets</a>
