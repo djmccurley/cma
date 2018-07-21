@@ -52,8 +52,8 @@
                <p class="place bold">March 09, 2019 – 8:00 PM</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>  
                <p class="place"><span class="bold">Tickets:</span> $25 in advance | $30 at the door</p>
-               <a href="tickets.php" class="cta">Buy Tickets</a>
-               <p class="place"><a href="https://www.facebook.com/events/1633272490120557/" class="info_link">RSVP on Facebook</a></p>
+               <a href="https://www.eventbrite.com/e/jigjam-tickets-48303457943" class="cta">Buy Tickets</a>
+               <p class="place"><a href="https://www.facebook.com/pg/celticmusicassociation/events/" class="info_link">RSVP on Facebook</a></p>
             </div>
         </article>
 
