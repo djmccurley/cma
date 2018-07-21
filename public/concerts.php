@@ -25,8 +25,6 @@
     <main>
         <article class="leader">
             <h1><span class="break">2018 - 2019</span> <span class="break">Concert Season</span></h1>
-            <p class="bold">2018 – 2019 Concert Season &amp; ticket information coming soon!</p>
-            <p>Check back for more info in the coming weeks.</p>
 <p class="bold">All concerts start at 8:00 p.m.</p> 
             <p>(Doors open at 7:00 p.m.)</p>
             <p>Season tickets $88 (until Oct. 06)</p> 
