@@ -27,7 +27,7 @@
             <h1><span class="break">2018 - 2019</span> <span class="break">Concert Season</span></h1>
 <p class="bold">All concerts start at 8:00 p.m.</p> 
             <p>(Doors open at 7:00 p.m.)</p>
-            <p>Season tickets $88 (until Oct. 06)</p> 
+            <p>Season tickets $90 (until Oct. 06)</p> 
             <p><span class="bold">Holy Trinity Concerts:</span> $25 single ticket in advance | $30 at the door</p>
             <p><span class="bold">Hoyt Sherman Concerts:</span> $30 single ticket in advance | $35 at the door</p>
             <a href="tickets.php" class="cta">Buy Tickets</a>

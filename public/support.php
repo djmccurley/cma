@@ -29,8 +29,10 @@
         <article id="friend" class="content_pane">
             <div class="content_wrapper">
                 <h2>Become a Friend</h2>
-                  <p>Complete the form below to become a Friend of the Celtic Music Association</p>
+                  <p>Complete &amp; mail the form below to become a Friend of the Celtic Music Association</p>
                   <a href="pdf/cma_friends_form.pdf" target="_blank" class="info_link">Membership form (PDF)</a>
+                  <p>Or submit your application &amp; membership donation online:</p>
+                  <p><a href="https://www.eventbrite.com/e/support-the-celtic-music-association-2018-2019-concert-season-tickets-48303552225" target="_blank" class="info_link" style="margin: 2rem 0 2rem 0">Donate online via Eventbrite</a></p>
             </div>
         </article>      
         <article id="donate" class="content_pane">
