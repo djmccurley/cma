@@ -25,7 +25,9 @@
     <main>
         <article class="leader">
             <h1>The Celtic Music Association</h1>
-            <p class="leader-copy">The Celtic Music Association is Central Iowa's premier Celtic Music organization. Founded in 1992, the CMA has sponsored an annual concert series and Celtic music events for over a quarter century.</p> 
+            
+            <p class="leader-copy"><span class="bold">New for the 2018-2019 Concert Season: online ticket sales! </span>You can now purchase season and single-concert tickets online through <a href="https://thecma.eventbrite.com" target="_blank" class="info_link">Eventbrite.</a></p> 
+            <p class="leader-copy">The Celtic Music Association is Central Iowa's premier Celtic Music organization. Founded in 1992, the CMA has sponsored an annual concert series and Celtic music events for over a quarter century.</p>           
             <p class="leader-copy"><a href="about.php" class="info_link">Learn More...</a></p>
         </article>
 

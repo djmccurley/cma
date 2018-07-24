@@ -27,7 +27,7 @@
             <h1><span class="break">2018 - 2019</span> <span class="break">Concert Season</span></h1>
 <p class="bold">All concerts start at 8:00 p.m.</p> 
             <p>(Doors open at 7:00 p.m.)</p>
-            <p>Season tickets $88 (until Oct. 06)</p> 
+            <p>Season tickets $90 (until Oct. 06)</p> 
             <p><span class="bold">Holy Trinity Concerts:</span> $25 single ticket in advance | $30 at the door</p>
             <p><span class="bold">Hoyt Sherman Concerts:</span> $30 single ticket in advance | $35 at the door</p>
             <a href="tickets.php" class="cta">Buy Tickets</a>
@@ -43,7 +43,7 @@
                <p class="place bold">October 06, 2018</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
 
-               <a href="tickets.php" class="cta">Buy Tickets</a>
+               <a href="https://www.eventbrite.com/e/the-fitzgeralds-tickets-47638826011" class="cta" target="blank">Buy Tickets</a>
             </div>
         </article>
 
@@ -56,7 +56,7 @@
                <p class="place bold">Jan 12, 2019</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
 
-               <a href="tickets.php" class="cta">Buy Tickets</a>
+               <a href="https://www.eventbrite.com/e/connla-tickets-48303011608" class="cta" target="blank">Buy Tickets</a>
             </div>
         </article>
 
@@ -82,7 +82,7 @@
                <p class="place bold">March 09, 2019</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
 
-               <a href="tickets.php" class="cta">Buy Tickets</a>
+               <a href="https://www.eventbrite.com/e/jigjam-tickets-48303457943" class="cta" target="blank">Buy Tickets</a>
             </div>
         </article>
 

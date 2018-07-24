@@ -44,10 +44,25 @@
                   organize all aspects of the concerts.  The goal of the association is 
                   to provide quality Celtic music to a loyal audience in a fun, friendly environment.</p>
             </div>
+        </article>
+        <article id="concert_history" class="content_pane">    
             <div class="content_wrapper">      
                   <h2>Previous Concerts</h2>
                   <ul>
-                  <li><a href="pdf/CMACommPoster.pdf" class="info_link">View the 25th Anniversary Poster (.pdf)</a></li></ul>
+                  <li>
+                    <h3>2017 – 2018 Concert Season</h3>
+                    <ul>
+                      <li>Skipper&#39;s Alley – October 21, 2017</li>
+                      <li>Tallymoore - January 13, 2018</li>
+                      <li>Dàimh - February 10, 2018</li>
+                      <li>Socks in the Frying Pan - March 9, 2018</li>
+
+                    </ul>
+
+                  </li>
+                  <li>
+                    <h3>Concerts from 1992 – 2017</h3>
+                    <a href="pdf/CMACommPoster.pdf" class="info_link">View the 25th Anniversary Poster (.pdf)</a></li></ul>
             </div>
         </article> 
         <article id="newsletter" class="content_pane">

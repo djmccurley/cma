@@ -30,7 +30,8 @@
         <article class="content_pane">
             <div class="content_wrapper">
                 <h2>Ticket Info</h2>
-                <p>2018 – 2019 ticket information coming soon.</p>
+                <p><span class="bold">New for the 2018-2019 Concert Season: online ticket sales! </span>You can now purchase season and single-concert tickets online through Eventbrite.</p>
+                <p><a href="https://thecma.eventbrite.com" target="_blank" class="info_link">Buy CMA tickets on Eventbrite</a></p>
             </div>
         </article>
 
@@ -38,6 +39,8 @@
             <div class="content_wrapper tickets">
                 <h2>Season and Single Ticket Outlets</h2>
 
+                  <h3>Eventbrite (online ticket sales)</h3>
+                  <p><a href="https://thecma.eventbrite.com" target="_blank" class="info_link">Celtic Music Association on Eventbrite</a> </p>
                   <h3>Celtic Music Association</h3>
                   <p>515-771-2215 (check only)</p>
                   <p>P. O. Box 30001, Des Moines, Iowa 50310</p>

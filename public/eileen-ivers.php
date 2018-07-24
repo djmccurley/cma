@@ -50,7 +50,7 @@
                <p><span class="place break bold">Hoyt Sherman Auditorium</span> <span class="place break bold">1501 Woodland Ave.</span> <span class="place break bold">Des Moines</span></p>  
                <p class="place"><span class="bold">Tickets:</span> $30 in advance | $35 at the door</p>
                <a href="tickets.php" class="cta">Buy Tickets</a>
-               <p class="place"><a href="https://www.facebook.com/events/1633272490120557/" class="info_link">RSVP on Facebook</a></p>
+               <p class="place"><a href="https://www.facebook.com/pg/celticmusicassociation/events/" class="info_link">RSVP on Facebook</a></p>
             </div>
         </article>
 
