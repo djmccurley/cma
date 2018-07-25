@@ -32,6 +32,7 @@
                 <h2>Ticket Info</h2>
                 <p><span class="bold">New for the 2018-2019 Concert Season: online ticket sales! </span>You can now purchase season and single-concert tickets online through Eventbrite.</p>
                 <p><a href="https://thecma.eventbrite.com" target="_blank" class="info_link">Buy CMA tickets on Eventbrite</a></p>
+                <p>Season and single concert tickets are also available at outlets around the Des Moines area. Single concert tickets are available at outlets one month prior to each concert.</p>
             </div>
         </article>
 
@@ -70,10 +71,10 @@
                   <a href="http://www.uptempo-music.com">www.uptempo-music.com</a>
                   
 
-                  <h3>Mainstream Boutique</h3>
-                  <p>515-277-4117 (cash or check only)</p>
+                  <h3>Cindy's Boutique</h3>
+                  <p>515-274-0118 (cash or check only)</p>
                   <p>114 5th St., West Des Moines, IA</p>
-                  <a href="http://www.mainstreamboutique.com">www.mainstreamboutique.com</a>
+                  <a href="https://www.cindysboutiquevj.com/">www.cindysboutiquevj.com/</a>
                   
                   <h3>For Hoyt Sherman concerts:</h3>
                   <h4>Hoyt Sherman Box Office</h4>
