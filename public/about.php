@@ -85,6 +85,7 @@
                     <li class="bold">Kevin Leopold - Vice President</li>
                     <li class="bold">Julie Leopold - Vice Presdent</li>
                     <li class="bold">Denise Dooley - Treasurer</li>
+                    <li class="bold">Tina Manbeck - Board Representative</li>
                     <li>Lynn Beary</li>
                     <li>Colleen Bush</li>
                     <li>Cheryl Cibula</li>
@@ -97,9 +98,12 @@
                     <li>Terry Kleinhesselink</li>
                     <li>Virgil Kleinhesselink</li>
                     <li>Cathryn Lang</li>  
+                    <li>David Puffett</li>
+                    <li>Karen Puffett</li>
                     <li>Margaret Stoffregen</li>
                     <li>Clark Williams</li>
                     <li>Stu Walker</li>
+                    <li>Ron Yarnell</li>
                     <li>Eduard Zell</li>
                     <li>Dan McCurley (Web Design) – <a href="http://djmccurley.com" target="_blank">djmccurley.com</a></li>
                   </ul>  
