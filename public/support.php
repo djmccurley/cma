@@ -53,6 +53,13 @@
             </div>
         </article>
 
+
+        <article id="more" class="content_pane">
+          <div class="content_wrapper">
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSek2M9TFx1QVnuwhDQwE-vEESVtbp0-QsFP-JU9BDB13s8aNg/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+          </div>
+        </article>
+
         <aside class="ad">
             <h2>Our Sponsors</h2>
             <img src="http://placehold.it/800x300">
