@@ -20,6 +20,7 @@ echo    '<header class="clearfix">
                   <li><a href="connla.php">Connla</a></li>
                   <li><a href="eileen-ivers.php">Eileen Ivers</a></li>
                   <li><a href="jigjam.php">JigJam</a></li>
+                  <li><a href="doolin.php">Doolin&apos;</a></li>
                 </ol>   
               </li>
               <li><a href="tickets.php">Buy Tickets</a></li>
