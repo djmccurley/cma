@@ -25,38 +25,38 @@
     <main>
         <article class="leader">
             <h1><span class="break">2018 - 2019</span> <span class="break">Concert Season</span></h1>
-<p class="bold">All concerts start at 8:00 p.m.</p> 
+<!-- <p class="bold">All concerts start at 8:00 p.m.</p> 
             <p>(Doors open at 7:00 p.m.)</p>
-            <p>Season tickets $90 (until Oct. 06)</p> 
-            <p><span class="bold">Holy Trinity Concerts:</span> $25 single ticket in advance | $30 at the door</p>
+            <p>Season tickets $90 (until Oct. 06)</p>  -->
+            <p><span class="bold">Holy Trinity &amp; Franklin Junior High Concerts:</span> $25 single ticket in advance | $30 at the door</p>
             <p><span class="bold">Hoyt Sherman Concerts:</span> $30 single ticket in advance | $35 at the door</p>
             <a href="tickets.php" class="cta">Buy Tickets</a>
         </article>
 
         <article class="content_pane">
-            <img src="img/fitzgeralds.jpg">
+            <img src="img/doolin.jpg">
             <div class="content_wrapper">
-                <h2>The Fitzgeralds</h2>
-                <p>Featuring 3-time Canadian Grandmaster Fiddle Champions and Ontario Open Step Dance Champions, this unique act features high-energy fiddling and mind-blowing step dancing. It is the rare combination of exceptional musicianship, incomparable step dancing, audience interaction, evident love of performing, and genuine sibling connection that resonates with audiences of all ages and sets this group apart.</p>
+                <h2>Doolin&apos;</h2>
+                <p>French in origin – though easily mistaken for Irish musicians – this sextet (guitar, bodhrán, violin, tin whistle, accordion/vocals, bass) brings a fresh approach to Irish music.</p>
 
-                <a href="fitzgeralds.php" class="info_link"> More about this artist...</a>
-               <p class="place bold">October 06, 2018</p>
-               <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
+                <a href="doolin.php" class="info_link"> More about this artist...</a>
+               <p class="place bold">August 08, 2019</p>
+               <p><span class="place break bold">Hoyt Sherman Place</span> <span class="place break bold">1501 Woodland Ave.</span> <span class="place break bold">Des Moines</span></p>
 
-               <a href="https://www.eventbrite.com/e/the-fitzgeralds-tickets-47638826011" class="cta" target="blank">Buy Tickets</a>
+               <a href="http://hoytsherman.org/calendar/events/event-240/" class="cta" target="blank">Buy Tickets</a>
             </div>
         </article>
 
         <article class="content_pane">
-            <img src="img/connla.jpg">
+            <img src="https://placehold.it/450x300">
             <div class="content_wrapper">
-                <h2>Connla</h2>
-                <p>Hailing from the cities of Armagh and Derry, Ciara McCafferty (vocals), Ciaran Carlin (Flute/Whistles) and Paul Starrett (Guitar) Emer Mallon (Harp) and Conor Mallon (Uilleann Pipes/Whistles). Labelled as the Hottest New Group out of Northern Ireland, (Chicago Irish American News) Connla have been quickly making an impact on the folk/traditional scene.</p>
-                <a href="connla.php" class="info_link"> More about this artist...</a>
-               <p class="place bold">Jan 12, 2019</p>
+                <h2>Old Blind Dogs</h2>
+                <p>Since forming in the early 1990's, Old Blind Dogs have stood on the cutting edge of Scotland's roots revival. The band has developed its own trademark style with an energetic mix of songs and tunes.</p>
+                <a href="old-blind-dogs.php" class="info_link"> More about this artist...</a>
+               <p class="place bold">October 05, 2019</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
 
-               <a href="https://www.eventbrite.com/e/connla-tickets-48303011608" class="cta" target="blank">Buy Tickets</a>
+               <a href="#!" class="cta" target="blank">Buy Tickets</a>
             </div>
         </article>
 
