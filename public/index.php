@@ -26,7 +26,7 @@
         <article class="leader">
             <h1>The Celtic Music Association</h1>
             
-            <p class="leader-copy"><span class="bold">New for the 2018-2019 Concert Season: online ticket sales! </span>You can now purchase season and single-concert tickets online through <a href="https://thecma.eventbrite.com" target="_blank" class="info_link">Eventbrite.</a> Tickets also available at <a href="tickets.php">brick and mortar outlets</a> around Des Moines.</p> 
+            <p class="leader-copy"><span class="bold">Online Ticket Sales – </span>You can now purchase season and single-concert tickets online through <a href="https://thecma.eventbrite.com" target="_blank" class="info_link">Eventbrite.</a> Tickets also available at <a href="tickets.php">brick and mortar outlets</a> around Des Moines.</p> 
             <p class="leader-copy">The Celtic Music Association is Central Iowa's premier Celtic Music organization. Founded in 1992, the CMA has sponsored an annual concert series and Celtic music events for over a quarter century.</p>           
             <p class="leader-copy"><a href="about.php" class="info_link">Learn More...</a></p>
         </article>
@@ -34,9 +34,9 @@
         <div class="feature-grid clearfix">
           <article class="feature-item full">
             <a href="concerts.php">
-              <h2>2018-2019 Concert Series</h2>
+              <h2>2019-2020 Concert Series</h2>
             </a>
-            <img src="img/concert.jpg" alt="Image of concertgoers with 2018-2019 concert series text">
+            <img src="img/concert.jpg" alt="Image of concertgoers with 2019-2020 concert series text">
           </article>
 
           <article class="feature-item third">
@@ -59,12 +59,7 @@
             </a>
             <img src="img/Bokeh01.jpg" alt="image of bokeh lights with About the CMA text">
           </article>
-        </div>
-
-        <aside class="ad">
-            <h2>Our Sponsors</h2>
-            <img src="http://placehold.it/800x300">
-        </aside>    
+        </div>  
     </main>
 
     <?php include 'php/footer.php' ; ?>
