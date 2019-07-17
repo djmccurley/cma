@@ -43,14 +43,14 @@
             <a href="tickets.php">
               <h2>Buy Tickets</h2>
             </a>
-            <img src="img/connla.jpg" alt="Image of Connla with buy tickets text">
+            <img src="img/old-blind-dogs.jpg" alt="Image of Connla with buy tickets text">
           </article>
 
           <article class="feature-item third">
             <a href="support.php">
               <h2>Support the CMA</h2>
             </a>
-            <img src="img/eileen-ivers.jpg" alt="image of Eileen Ivers and her band with Support the CMA text">
+            <img src="img/high-time.jpg" alt="image of Eileen Ivers and her band with Support the CMA text">
           </article>
 
           <article class="feature-item third">

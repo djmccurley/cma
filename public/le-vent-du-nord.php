@@ -23,7 +23,7 @@
 
     <main>
         <article class="hero">
-            <img src="https://placehold.it/1197x467">
+            <img src="img/le-vent-du-nord-bg.jpg">
             
               <h1>Le Vent Du Nord</h1>
               <p class=""><span class="break">January 11, 2020</span> Holy Trinity Hall, 2926 Beaver Ave, Des Moines</p>

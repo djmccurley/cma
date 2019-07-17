@@ -23,7 +23,7 @@
 
     <main>
         <article class="hero">
-            <img src="https://placehold.it/1197x467">
+            <img src="img/high-time-bg.jpg">
             
               <h1>High Time</h1>
               <p class=""><span class="break">February 15, 2020</span> Holy Trinity Hall, 2926 Beaver Ave, Des Moines</p>

@@ -48,7 +48,7 @@
         </article>
 
         <article class="content_pane">
-            <img src="https://placehold.it/450x300">
+            <img src="img/old-blind-dogs.jpg">
             <div class="content_wrapper">
                 <h2>Old Blind Dogs</h2>
                 <p>Since forming in the early 1990's, Old Blind Dogs have stood on the cutting edge of Scotland's roots revival. The band has developed its own trademark style with an energetic mix of songs and tunes.</p>
@@ -61,7 +61,7 @@
         </article>
 
         <article class="content_pane">
-            <img src="https://placehold.it/450x300">
+            <img src="img/le-vent-du-nord.jpg">
             <div class="content_wrapper">
                 <h2>Le Vent Du Nord</h2>
                 <p>Since its inception in August 2002, Le Vent du Nord as enjoyed meteoric success, receiving several prestigious awards including a Juno (Canadian Grammy). The band is now one of the most-loved Quebec folk groups touring the world.</p>
@@ -74,7 +74,7 @@
         </article>
 
         <article class="content_pane">
-            <img src="https://placehold.it/450x300">
+            <img src="img/high-time.jpg">
             <div class="content_wrapper">
                 <h2>High Time</h2>
                 <p>This fresh new trio from the heart of Connemara, Ireland combines Irish music and an intriguing blend of modern folk influences to produce a rich sound and exciting experience to delight listeners. Featuring an unusual line-up of flute, whistles, harp, bodhrán, guitar and vocals (with some Irish dancing steps thrown in!), HighTime make a youthful and energetic statement.</p>
@@ -87,7 +87,7 @@
         </article>
 
         <article class="content_pane">
-            <img src="https://placehold.it/450x300">
+            <img src="img/calan.jpg">
             <div class="content_wrapper">
                 <h2>Calan</h2>
                 <p>The Welsh band Calan is on a mission to prove that traditional music, based on folklore and taught and performed through the generations, actually does rock. With 2017 performances in Australia and China following several months touring the US and UK supporting the new album Solomon (Sain Records, May 12th), Calan is on its way to accomplishing that.</p>

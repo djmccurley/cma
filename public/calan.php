@@ -23,7 +23,7 @@
 
     <main>
         <article class="hero">
-            <img src="https://placehold.it/1197x467">
+            <img src="img/calan-bg.jpg">
             
               <h1>Calan</h1>
               <p class=""><span class="break">March 14, 2020</span> Franklin Junior High, 4801 Franklin Ave, Des Moines</p>
