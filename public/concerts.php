@@ -61,35 +61,44 @@
         </article>
 
         <article class="content_pane">
-            <img src="img/eileen-ivers.jpg">
+            <img src="https://placehold.it/450x300">
             <div class="content_wrapper">
-                <h2>Eileen Ivers</h2>
-                <p>It is a rare and select grade of spectacular artists whose work is so boldly imaginative and clearly virtuosic that it alters the medium. It has been said that the task of respectfully exploring the traditions and progression of the Celtic fiddle is quite literally on Eileen Ivers' shoulders.</p>
-                <a href="eileen-ivers.php" class="info_link"> More about this artist...</a>
-               <p class="place bold">February 08, 2019</p>
-               <p><span class="place break bold">Hoyt Sherman</span> <span class="place break bold">1501 Woodland Ave.</span> <span class="place break bold">Des Moines</span></p>
+                <h2>Le Vent Du Nord</h2>
+                <p>Since its inception in August 2002, Le Vent du Nord as enjoyed meteoric success, receiving several prestigious awards including a Juno (Canadian Grammy). The band is now one of the most-loved Quebec folk groups touring the world.</p>
+                <a href="le-vent-du-nord.php" class="info_link"> More about this artist...</a>
+               <p class="place bold">January 11, 2020</p>
+               <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
 
                <a href="tickets.php" class="cta">Buy Tickets</a>
             </div>
         </article>
 
         <article class="content_pane">
-            <img src="img/jigjam.jpg">
+            <img src="https://placehold.it/450x300">
             <div class="content_wrapper">
-                <h2>JigJam</h2>
-                <p>JigJam is a multi-award winning quartet from the heart of the midlands in Ireland. Blending the best of traditional Irish music with bluegrass and Americana in a new genre which has been branded as ‘CeltGrass’, their onstage energy along with their virtuos musical ability has captivated audiences throughout the world.</p>
-                <a href="jigjam.php" class="info_link"> More about this artist...</a>
-               <p class="place bold">March 09, 2019</p>
+                <h2>High Time</h2>
+                <p>This fresh new trio from the heart of Connemara, Ireland combines Irish music and an intriguing blend of modern folk influences to produce a rich sound and exciting experience to delight listeners. Featuring an unusual line-up of flute, whistles, harp, bodhrán, guitar and vocals (with some Irish dancing steps thrown in!), HighTime make a youthful and energetic statement.</p>
+                <a href="high-time.php" class="info_link"> More about this artist...</a>
+               <p class="place bold">February 15, 2020</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
 
-               <a href="https://www.eventbrite.com/e/jigjam-tickets-48303457943" class="cta" target="blank">Buy Tickets</a>
+               <a href="#!" class="cta" target="blank">Buy Tickets</a>
             </div>
         </article>
 
-        <aside class="ad">
-            <h2>Our Sponsors</h2>
-            <img src="http://placehold.it/800x300">
-        </aside>    
+        <article class="content_pane">
+            <img src="https://placehold.it/450x300">
+            <div class="content_wrapper">
+                <h2>Calan</h2>
+                <p>The Welsh band Calan is on a mission to prove that traditional music, based on folklore and taught and performed through the generations, actually does rock. With 2017 performances in Australia and China following several months touring the US and UK supporting the new album Solomon (Sain Records, May 12th), Calan is on its way to accomplishing that.</p>
+                <a href="calan.php" class="info_link"> More about this artist...</a>
+               <p class="place bold">March 14, 2020</p>
+               <p><span class="place break bold">Franklin Junior High</span> <span class="place break bold">4801 Franklin Ave.</span> <span class="place break bold">Des Moines</span></p>
+
+               <a href="#!" class="cta" target="blank">Buy Tickets</a>
+            </div>
+        </article>
+  
     </main>
 
     <?php include 'php/footer.php' ; ?>
