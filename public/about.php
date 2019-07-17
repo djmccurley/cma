@@ -50,7 +50,18 @@
                   <h2>Previous Concerts</h2>
                   <ul>
                   <li>
-                    <h3>2017 – 2018 Concert Season</h3>
+                    <h3>2018 – 2019</h3>
+                    <ul>
+                      <li>The Fitzgeralds – October 06, 2018</li>
+                      <li>Connla - January 12, 2019</li>
+                      <li>Eileen Ivers - February 08, 2019</li>
+                      <li>JigJam - March 9, 2019</li>
+
+                    </ul>
+
+                  </li>
+                  <li>
+                    <h3>2017 – 2018</h3>
                     <ul>
                       <li>Skipper&#39;s Alley – October 21, 2017</li>
                       <li>Tallymoore - January 13, 2018</li>
