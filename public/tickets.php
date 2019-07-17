@@ -30,7 +30,7 @@
         <article class="content_pane">
             <div class="content_wrapper">
                 <h2>Ticket Info</h2>
-                <p><span class="bold">New for the 2018-2019 Concert Season: online ticket sales! </span>You can now purchase season and single-concert tickets online through Eventbrite.</p>
+                <p><span class="bold">Online ticket sales: </span>You can purchase season and single-concert tickets online through Eventbrite.</p>
                 <p><a href="https://thecma.eventbrite.com" target="_blank" class="info_link">Buy CMA tickets on Eventbrite</a></p>
                 <p>Season and single concert tickets are also available at outlets around the Des Moines area. Single concert tickets are available at outlets one month prior to each concert.</p>
             </div>
