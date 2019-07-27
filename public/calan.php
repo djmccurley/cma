@@ -50,7 +50,7 @@
                <p class="place bold">March 14, 2020 - 8:00 PM</p>
                <p><span class="place break bold">Franklin Junior High</span> <span class="place break bold">4801 Franklin Ave.</span> <span class="place break bold">Des Moines</span></p>  
                <p class="place"><span class="bold">Tickets:</span> $25 in advance | $30 at the door</p>
-               <a href="#!" class="cta">Buy Tickets</a>
+               <a href="https://www.eventbrite.com/e/calan-tickets-66768366983" class="cta">Buy Tickets</a>
                <p class="place"><a href="https://www.facebook.com/pg/celticmusicassociation/events/" class="info_link">RSVP on Facebook</a></p>
             </div>
         </article>  

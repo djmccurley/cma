@@ -56,7 +56,7 @@
                <p class="place bold">October 05, 2019</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
 
-               <a href="#!" class="cta" target="blank">Buy Tickets</a>
+               <a href="https://www.eventbrite.com/e/old-blind-dogs-tickets-66768248629" class="cta" target="blank">Buy Tickets</a>
             </div>
         </article>
 
@@ -69,7 +69,7 @@
                <p class="place bold">January 11, 2020</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
 
-               <a href="tickets.php" class="cta">Buy Tickets</a>
+               <a href="https://www.eventbrite.com/e/la-vent-du-nord-tickets-66768294767" class="cta">Buy Tickets</a>
             </div>
         </article>
 
@@ -81,8 +81,8 @@
                 <a href="high-time.php" class="info_link"> More about this artist...</a>
                <p class="place bold">February 15, 2020</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
-
-               <a href="#!" class="cta" target="blank">Buy Tickets</a>
+               
+               <a href="https://www.eventbrite.com/e/high-time-tickets-66768338899" class="cta" target="blank">Buy Tickets</a>
             </div>
         </article>
 
@@ -95,7 +95,7 @@
                <p class="place bold">March 14, 2020</p>
                <p><span class="place break bold">Franklin Junior High</span> <span class="place break bold">4801 Franklin Ave.</span> <span class="place break bold">Des Moines</span></p>
 
-               <a href="#!" class="cta" target="blank">Buy Tickets</a>
+               <a href="https://www.eventbrite.com/e/calan-tickets-66768366983" class="cta" target="blank">Buy Tickets</a>
             </div>
         </article>
   

@@ -48,7 +48,7 @@ Featuring an unusual line-up of flute, whistles, harp, bodhrán, guitar and voca
                <p class="place bold">February 15, 2020 - 8:00 PM</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>  
                <p class="place"><span class="bold">Tickets:</span> $25 in advance | $30 at the door</p>
-               <a href="#!" class="cta">Buy Tickets</a>
+               <a href="https://www.eventbrite.com/e/high-time-tickets-66768338899" class="cta">Buy Tickets</a>
                <p class="place"><a href="https://www.facebook.com/pg/celticmusicassociation/events/" class="info_link">RSVP on Facebook</a></p>
             </div>
         </article>  
