@@ -1,6 +1,16 @@
 <!doctype html>
 <html class="no-js" lang="en">
   <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-13117340-5"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-13117340-5');
+    </script>
+
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       <title>Celtic Music Association</title>
@@ -50,7 +60,7 @@
                <p class="place bold">March 14, 2020 - 8:00 PM</p>
                <p><span class="place break bold">Franklin Junior High</span> <span class="place break bold">4801 Franklin Ave.</span> <span class="place break bold">Des Moines</span></p>  
                <p class="place"><span class="bold">Tickets:</span> $25 in advance | $30 at the door</p>
-               <a href="https://www.eventbrite.com/e/calan-tickets-66768366983" class="cta">Buy Tickets</a>
+               <a href="https://www.eventbrite.com/e/calan-tickets-66768366983g" class="cta">Buy Tickets</a>
                <p class="place"><a href="https://www.facebook.com/pg/celticmusicassociation/events/" class="info_link">RSVP on Facebook</a></p>
             </div>
         </article>  
@@ -61,15 +71,5 @@
     <script src="js/vendor/jquery-3.2.1.min.js"></script>
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
-
-    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-    <script>
-        (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-        function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-        e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-        e.src='https://www.google-analytics.com/analytics.js';
-        r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-        ga('create','UA-XXXXX-X','auto');ga('send','pageview');
-    </script>
   </body>
 </html>
