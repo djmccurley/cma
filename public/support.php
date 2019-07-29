@@ -41,13 +41,13 @@
                   <p>Complete &amp; mail the form below to become a Friend of the Celtic Music Association</p>
                   <a href="pdf/cma_friends_form.pdf" target="_blank" class="info_link">Membership form (PDF)</a>
                   <p>Or submit your application &amp; membership donation online:</p>
-                  <p><a href="https://www.eventbrite.com/e/support-the-celtic-music-association-2018-2019-concert-season-tickets-48303552225" target="_blank" class="info_link" style="margin: 2rem 0 2rem 0">Donate online via Eventbrite</a></p>
+                  <p><a href="https://www.eventbrite.com/e/support-the-celtic-music-association-2019-2020-concert-season-tickets-66768160365" target="_blank" class="info_link" style="margin: 2rem 0 2rem 0">Donate online via Eventbrite</a></p>
             </div>
         </article>      
         <article id="donate" class="content_pane">
             <div class="content_wrapper">
                 <h2>Donate to the CMA</h2>
-                <p><a href="https://www.eventbrite.com/e/support-the-celtic-music-association-2018-2019-concert-season-tickets-48303552225" target="_blank" class="cta" style="margin: 2rem 0 2rem 0">Donate online via Eventbrite</a></p>
+                <p><a href="https://www.eventbrite.com/e/support-the-celtic-music-association-2019-2020-concert-season-tickets-66768160365" target="_blank" class="cta" style="margin: 2rem 0 2rem 0">Donate online via Eventbrite</a></p>
                 <p class="bold">Or mail your donation to:</p>
                 <p>The Celtic Music Association</p>
                 <p>PO Box 30001</p>
