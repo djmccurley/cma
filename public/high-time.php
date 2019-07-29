@@ -32,49 +32,35 @@
 
     <main>
         <article class="hero">
-            <img src="img/doolin-bg.jpg">
+            <img src="img/high-time-bg.jpg">
             
-              <h1>Doolin&apos;</h1>
-              <p class=""><span class="break">August 08, 2019</span> Hoyt Sherman Place, 1501 Woodland Ave, Des Moines</p>
+              <h1>High Time</h1>
+              <p class=""><span class="break">February 15, 2020</span> Holy Trinity Hall, 2926 Beaver Ave, Des Moines</p>
 
         </article>
         <article class="content_pane">
             <div class="content_wrapper">
 
-                <p>Doolin&apos;, formed in Toulouse in 2005, comprises six accomplished and eclectic musicians who have gained fame through their music. French in origin – though easily mistaken for Irish musicians – this sextet (guitar, bodhrán, violin, tin whistle, accordion/vocals, bass) brings a fresh approach to Irish music.</p>
                 
-                <p>Inspired by the purest tradition, Doolin’ combines instrumentals, vocals and original compositions in a resolutely modern style. The arrangements, at times taking their inspiration from pop-rock, folk, jazz, funk or even rap (and always in the best taste), emit great energy.
+                <p>This fresh new trio from the heart of Connemara, Ireland combines Irish music and an intriguing blend of modern folk influences to produce a rich sound and exciting experience to delight listeners.
+Featuring an unusual line-up of flute, whistles, harp, bodhrán, guitar and vocals (with some Irish dancing steps thrown in!), HighTime make a youthful and energetic statement.
 </p>
-
-                
-
-
-
+    <p>Equal measures of music and tradition from old Ireland coupled with bold new arrangements make for a tasty platter of story, music, song and dance from these three young men; All hailing from the village of Ardmore on the rugged west coast.</p>
+    
                 <div class="video_wrapper">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/4x2dUudqt38" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/HgSiPSOJbV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
 
-                <div class="video_wrapper">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/-MgNH7v2__8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-
-                <p class="place"><a href="http://www.doolin.fr/english/" class="info_link">Doolin&apos;</a></p>
+                <p class="place"><a href="https://www.hightime.ie/" class="info_link">High Time</a></p>
 
 
-               <p class="place bold">August 08, 2019 – 7:30 PM</p>
-               <p class="place bold">(Doors open at 6:30 PM)</p>
-               <p><span class="place break bold">Hoyt Sherman Place</span> <span class="place break bold">1501 Woodland Ave.</span> <span class="place break bold">Des Moines</span></p>  
-               <p class="place"><span class="bold">Tickets:</span> $30 in advance | $35 at the door</p>
-               <a href="http://hoytsherman.org/calendar/events/event-240/" class="cta">Buy Tickets</a>
+               <p class="place bold">February 15, 2020 - 8:00 PM</p>
+               <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>  
+               <p class="place"><span class="bold">Tickets:</span> $25 in advance | $30 at the door</p>
+               <a href="https://www.eventbrite.com/e/high-time-tickets-66768338899" class="cta">Buy Tickets</a>
                <p class="place"><a href="https://www.facebook.com/pg/celticmusicassociation/events/" class="info_link">RSVP on Facebook</a></p>
             </div>
-        </article>
-
-
-        <aside class="ad">
-            <h2>Our Sponsors</h2>
-            <img src="http://placehold.it/800x300">
-        </aside>    
+        </article>  
     </main>
 
     <?php include 'php/footer.php' ; ?>
