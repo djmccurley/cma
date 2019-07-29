@@ -14,15 +14,14 @@ echo    '<header class="clearfix">
             <ol>
               <li><a href="concerts.php">Concerts</a>
                 <ol class="submenu clearfix">
-                  <li><a href="high-kings.php">The High Kings</a></li>
-                  <li><a href="concerts.php">2018 – 2019 Season</a></li>
-                  <li><a href="fitzgeralds.php">The Fitzgeralds</a></li>
-                  <li><a href="connla.php">Connla</a></li>
-                  <li><a href="eileen-ivers.php">Eileen Ivers</a></li>
-                  <li><a href="jigjam.php">JigJam</a></li>
+                  <li><a href="concerts.php">2019 – 2020 Season</a></li>
                   <li><a href="doolin.php">Doolin&apos;</a></li>
-                </ol>   
-              </li>
+                  <li><a href="old-blind-dogs.php">Old Blind Dogs</a></li>
+                  <li><a href="le-vent-du-nord.php">Le Vent Du Nord</a></li>
+                  <li><a href="high-time.php">High Time</a></li>
+                  <li><a href="calan.php">Calan</a></li>
+                  </ol>   
+                  </li>
               <li><a href="tickets.php">Buy Tickets</a></li>
               <li><a href="support.php">Support the CMA</a>
                 <ol class="submenu clearfix">

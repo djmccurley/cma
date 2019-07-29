@@ -1,6 +1,15 @@
 <!doctype html>
 <html class="no-js" lang="en">
   <head>
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-13117340-5"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-13117340-5');
+    </script>
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       <title>Celtic Music Association</title>
@@ -24,72 +33,81 @@
 
     <main>
         <article class="leader">
-            <h1><span class="break">2018 - 2019</span> <span class="break">Concert Season</span></h1>
-<p class="bold">All concerts start at 8:00 p.m.</p> 
+            <h1><span class="break">2019 - 2020</span> <span class="break">Concert Season</span></h1>
+<!-- <p class="bold">All concerts start at 8:00 p.m.</p> 
             <p>(Doors open at 7:00 p.m.)</p>
-            <p>Season tickets $90 (until Oct. 06)</p> 
-            <p><span class="bold">Holy Trinity Concerts:</span> $25 single ticket in advance | $30 at the door</p>
+            <p>Season tickets $90 (until Oct. 06)</p>  -->
+            <p><span class="bold">Holy Trinity &amp; Franklin Junior High Concerts:</span> $25 single ticket in advance | $30 at the door</p>
             <p><span class="bold">Hoyt Sherman Concerts:</span> $30 single ticket in advance | $35 at the door</p>
             <a href="tickets.php" class="cta">Buy Tickets</a>
         </article>
 
         <article class="content_pane">
-            <img src="img/fitzgeralds.jpg">
+            <img src="img/doolin.jpg">
             <div class="content_wrapper">
-                <h2>The Fitzgeralds</h2>
-                <p>Featuring 3-time Canadian Grandmaster Fiddle Champions and Ontario Open Step Dance Champions, this unique act features high-energy fiddling and mind-blowing step dancing. It is the rare combination of exceptional musicianship, incomparable step dancing, audience interaction, evident love of performing, and genuine sibling connection that resonates with audiences of all ages and sets this group apart.</p>
+                <h2>Doolin&apos;</h2>
+                <p>French in origin – though easily mistaken for Irish musicians – this sextet (guitar, bodhrán, violin, tin whistle, accordion/vocals, bass) brings a fresh approach to Irish music.</p>
 
-                <a href="fitzgeralds.php" class="info_link"> More about this artist...</a>
-               <p class="place bold">October 06, 2018</p>
-               <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
+                <a href="doolin.php" class="info_link"> More about this artist...</a>
+               <p class="place bold">August 08, 2019</p>
+               <p><span class="place break bold">Hoyt Sherman Place</span> <span class="place break bold">1501 Woodland Ave.</span> <span class="place break bold">Des Moines</span></p>
 
-               <a href="https://www.eventbrite.com/e/the-fitzgeralds-tickets-47638826011" class="cta" target="blank">Buy Tickets</a>
+               <a href="http://hoytsherman.org/calendar/events/event-240/" class="cta" target="blank">Buy Tickets</a>
             </div>
         </article>
 
         <article class="content_pane">
-            <img src="img/connla.jpg">
+            <img src="img/old-blind-dogs.jpg">
             <div class="content_wrapper">
-                <h2>Connla</h2>
-                <p>Hailing from the cities of Armagh and Derry, Ciara McCafferty (vocals), Ciaran Carlin (Flute/Whistles) and Paul Starrett (Guitar) Emer Mallon (Harp) and Conor Mallon (Uilleann Pipes/Whistles). Labelled as the Hottest New Group out of Northern Ireland, (Chicago Irish American News) Connla have been quickly making an impact on the folk/traditional scene.</p>
-                <a href="connla.php" class="info_link"> More about this artist...</a>
-               <p class="place bold">Jan 12, 2019</p>
+                <h2>Old Blind Dogs</h2>
+                <p>Since forming in the early 1990's, Old Blind Dogs have stood on the cutting edge of Scotland's roots revival. The band has developed its own trademark style with an energetic mix of songs and tunes.</p>
+                <a href="old-blind-dogs.php" class="info_link"> More about this artist...</a>
+               <p class="place bold">October 05, 2019</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
 
-               <a href="https://www.eventbrite.com/e/connla-tickets-48303011608" class="cta" target="blank">Buy Tickets</a>
+               <a href="https://www.eventbrite.com/e/old-blind-dogs-tickets-66768248629" class="cta" target="blank">Buy Tickets</a>
             </div>
         </article>
 
         <article class="content_pane">
-            <img src="img/eileen-ivers.jpg">
+            <img src="img/le-vent-du-nord.jpg">
             <div class="content_wrapper">
-                <h2>Eileen Ivers</h2>
-                <p>It is a rare and select grade of spectacular artists whose work is so boldly imaginative and clearly virtuosic that it alters the medium. It has been said that the task of respectfully exploring the traditions and progression of the Celtic fiddle is quite literally on Eileen Ivers' shoulders.</p>
-                <a href="eileen-ivers.php" class="info_link"> More about this artist...</a>
-               <p class="place bold">February 08, 2019</p>
-               <p><span class="place break bold">Hoyt Sherman</span> <span class="place break bold">1501 Woodland Ave.</span> <span class="place break bold">Des Moines</span></p>
+                <h2>Le Vent Du Nord</h2>
+                <p>Since its inception in August 2002, Le Vent du Nord as enjoyed meteoric success, receiving several prestigious awards including a Juno (Canadian Grammy). The band is now one of the most-loved Quebec folk groups touring the world.</p>
+                <a href="le-vent-du-nord.php" class="info_link"> More about this artist...</a>
+               <p class="place bold">January 11, 2020</p>
+               <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
 
-               <a href="tickets.php" class="cta">Buy Tickets</a>
+               <a href="https://www.eventbrite.com/e/la-vent-du-nord-tickets-66768294767" class="cta">Buy Tickets</a>
             </div>
         </article>
 
         <article class="content_pane">
-            <img src="img/jigjam.jpg">
+            <img src="img/high-time.jpg">
             <div class="content_wrapper">
-                <h2>JigJam</h2>
-                <p>JigJam is a multi-award winning quartet from the heart of the midlands in Ireland. Blending the best of traditional Irish music with bluegrass and Americana in a new genre which has been branded as ‘CeltGrass’, their onstage energy along with their virtuos musical ability has captivated audiences throughout the world.</p>
-                <a href="jigjam.php" class="info_link"> More about this artist...</a>
-               <p class="place bold">March 09, 2019</p>
+                <h2>High Time</h2>
+                <p>This fresh new trio from the heart of Connemara, Ireland combines Irish music and an intriguing blend of modern folk influences to produce a rich sound and exciting experience to delight listeners. Featuring an unusual line-up of flute, whistles, harp, bodhrán, guitar and vocals (with some Irish dancing steps thrown in!), HighTime make a youthful and energetic statement.</p>
+                <a href="high-time.php" class="info_link"> More about this artist...</a>
+               <p class="place bold">February 15, 2020</p>
                <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>
-
-               <a href="https://www.eventbrite.com/e/jigjam-tickets-48303457943" class="cta" target="blank">Buy Tickets</a>
+               
+               <a href="https://www.eventbrite.com/e/high-time-tickets-66768338899" class="cta" target="blank">Buy Tickets</a>
             </div>
         </article>
 
-        <aside class="ad">
-            <h2>Our Sponsors</h2>
-            <img src="http://placehold.it/800x300">
-        </aside>    
+        <article class="content_pane">
+            <img src="img/calan.jpg">
+            <div class="content_wrapper">
+                <h2>Calan</h2>
+                <p>The Welsh band Calan is on a mission to prove that traditional music, based on folklore and taught and performed through the generations, actually does rock. With 2017 performances in Australia and China following several months touring the US and UK supporting the new album Solomon (Sain Records, May 12th), Calan is on its way to accomplishing that.</p>
+                <a href="calan.php" class="info_link"> More about this artist...</a>
+               <p class="place bold">March 14, 2020</p>
+               <p><span class="place break bold">Franklin Junior High</span> <span class="place break bold">4801 Franklin Ave.</span> <span class="place break bold">Des Moines</span></p>
+
+               <a href="https://www.eventbrite.com/e/calan-tickets-66768366983" class="cta" target="blank">Buy Tickets</a>
+            </div>
+        </article>
+  
     </main>
 
     <?php include 'php/footer.php' ; ?>

@@ -32,49 +32,36 @@
 
     <main>
         <article class="hero">
-            <img src="img/doolin-bg.jpg">
+            <img src="img/le-vent-du-nord-bg.jpg">
             
-              <h1>Doolin&apos;</h1>
-              <p class=""><span class="break">August 08, 2019</span> Hoyt Sherman Place, 1501 Woodland Ave, Des Moines</p>
+              <h1>Le Vent Du Nord</h1>
+              <p class=""><span class="break">January 11, 2020</span> Holy Trinity Hall, 2926 Beaver Ave, Des Moines</p>
 
         </article>
         <article class="content_pane">
             <div class="content_wrapper">
 
-                <p>Doolin&apos;, formed in Toulouse in 2005, comprises six accomplished and eclectic musicians who have gained fame through their music. French in origin – though easily mistaken for Irish musicians – this sextet (guitar, bodhrán, violin, tin whistle, accordion/vocals, bass) brings a fresh approach to Irish music.</p>
-                
-                <p>Inspired by the purest tradition, Doolin’ combines instrumentals, vocals and original compositions in a resolutely modern style. The arrangements, at times taking their inspiration from pop-rock, folk, jazz, funk or even rap (and always in the best taste), emit great energy.
-</p>
+                <p class="feature">&quot;Featuring button accordion, guitar and fiddle, the band’s sound is defined by the hurdy-gurdy, which adds an earthy, rough-hewn flavor to even the most buoyant dance tunes.&quot; — Boston Herald</p>
 
-                
-
-
-
+                <p>Since its inception in August 2002, Le Vent du Nord as enjoyed meteoric success, receiving several prestigious awards including a Juno (Canadian Grammy). The band is now one of the most-loved Quebec folk groups touring the world. The group’s current line-up consists of singers / multi-instrumentalists Nicolas Boulerice, Simon Beaudry, Olivier Demers, and Andre & Réjean Brunet. The band’s repertoire includes both traditional and original material. On stage these four friends deliver masterful live performances that will move any crowd.</p>
                 <div class="video_wrapper">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/4x2dUudqt38" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/kBrEGJdrDqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
 
                 <div class="video_wrapper">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/-MgNH7v2__8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/b8RY-8b3QIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
 
-                <p class="place"><a href="http://www.doolin.fr/english/" class="info_link">Doolin&apos;</a></p>
+                <p class="place"><a href="https://leventdunord.com/en/" class="info_link">Le Vent Du Nord</a></p>
 
 
-               <p class="place bold">August 08, 2019 – 7:30 PM</p>
-               <p class="place bold">(Doors open at 6:30 PM)</p>
-               <p><span class="place break bold">Hoyt Sherman Place</span> <span class="place break bold">1501 Woodland Ave.</span> <span class="place break bold">Des Moines</span></p>  
-               <p class="place"><span class="bold">Tickets:</span> $30 in advance | $35 at the door</p>
-               <a href="http://hoytsherman.org/calendar/events/event-240/" class="cta">Buy Tickets</a>
+               <p class="place bold">January 11, 2020 - 8:00 PM</p>
+               <p><span class="place break bold">Holy Trinity Hall</span> <span class="place break bold">2926 Beaver Ave.</span> <span class="place break bold">Des Moines</span></p>  
+               <p class="place"><span class="bold">Tickets:</span> $25 in advance | $30 at the door</p>
+               <a href="https://www.eventbrite.com/e/la-vent-du-nord-tickets-66768294767" class="cta">Buy Tickets</a>
                <p class="place"><a href="https://www.facebook.com/pg/celticmusicassociation/events/" class="info_link">RSVP on Facebook</a></p>
             </div>
-        </article>
-
-
-        <aside class="ad">
-            <h2>Our Sponsors</h2>
-            <img src="http://placehold.it/800x300">
-        </aside>    
+        </article>  
     </main>
 
     <?php include 'php/footer.php' ; ?>

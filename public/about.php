@@ -1,6 +1,15 @@
 <!doctype html>
 <html class="no-js" lang="en">
   <head>
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-13117340-5"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-13117340-5');
+    </script>
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       <title>Celtic Music Association</title>
@@ -50,7 +59,18 @@
                   <h2>Previous Concerts</h2>
                   <ul>
                   <li>
-                    <h3>2017 – 2018 Concert Season</h3>
+                    <h3>2018 – 2019</h3>
+                    <ul>
+                      <li>The Fitzgeralds – October 06, 2018</li>
+                      <li>Connla - January 12, 2019</li>
+                      <li>Eileen Ivers - February 08, 2019</li>
+                      <li>JigJam - March 9, 2019</li>
+
+                    </ul>
+
+                  </li>
+                  <li>
+                    <h3>2017 – 2018</h3>
                     <ul>
                       <li>Skipper&#39;s Alley – October 21, 2017</li>
                       <li>Tallymoore - January 13, 2018</li>
@@ -69,6 +89,7 @@
             <div class="content_wrapper">
                 <h2>Newsletter</h2>
                 <ol>
+                <li><a href="pdf/cma_newsletter_7_19.pdf" class="info_link">July 2019</a></li>
                   <li><a href="pdf/cma_newsletter_2_19.pdf" class="info_link">February 2019</a></li>
                              <li><a href="pdf/cma_newsletter_12_18.pdf" class="info_link">December 2018</a></li>
                   <li><a href="pdf/cma_newsletter_9_18.pdf" class="info_link">September 2018</a></li>

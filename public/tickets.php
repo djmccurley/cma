@@ -1,6 +1,15 @@
 <!doctype html>
 <html class="no-js" lang="en">
   <head>
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-13117340-5"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-13117340-5');
+    </script>
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       <title>Celtic Music Association</title>
@@ -30,7 +39,7 @@
         <article class="content_pane">
             <div class="content_wrapper">
                 <h2>Ticket Info</h2>
-                <p><span class="bold">New for the 2018-2019 Concert Season: online ticket sales! </span>You can now purchase season and single-concert tickets online through Eventbrite.</p>
+                <p><span class="bold">Online ticket sales: </span>You can purchase season and single-concert tickets online through Eventbrite.</p>
                 <p><a href="https://thecma.eventbrite.com" target="_blank" class="info_link">Buy CMA tickets on Eventbrite</a></p>
                 <p>Season and single concert tickets are also available at outlets around the Des Moines area. Single concert tickets are available at outlets one month prior to each concert.</p>
             </div>
