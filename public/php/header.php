@@ -25,6 +25,7 @@ echo    '<header class="clearfix">
               <li><a href="tickets.php">Buy Tickets</a></li>
               <li><a href="support.php">Support the CMA</a>
                 <ol class="submenu clearfix">
+                  <li><a href="support.php#merch">CMA Items for Sale</a></li>  
                   <li><a href="support.php#friend">Join the CMA</a></li>
                   <li><a href="support.php#donate">Donate to CMA</a></li>
                   <li><a href="support.php#advertise">Advertise with CMA</a></li>
