@@ -35,6 +35,18 @@
             <h1>Support the CMA</h1>
         </article>
 
+        <article id="merch" class="content_pane">
+            <div class="content_wrapper">
+                <h2>CMA Items for Sale</h2>
+                  <p>Long sleeve t-shirts in green for men and women. Prices vary by size. $20 for M-XL, $25 for XXL.  Hats and bag/backpacks are $15 each.</p>
+                  
+                  <a href="img/cma-shirts.jpg" target="_blank">     <img src="img/cma-shirts.jpg" alt="CMA long sleeve t-shirts" style="width: 32%; display: inline;"></a>
+                  <a href="img/cma-hats.jpg" target="_blank">     <img src="img/cma-hats.jpg" alt="CMA long sleeve t-shirts" style="width: 32%; display: inline;"></a>
+                  <a href="img/cma-bags.jpg" target="_blank">     <img src="img/cma-bags.jpg" alt="CMA long sleeve t-shirts" style="width: 32%; display: inline;"></a>
+                  <p>Contact Colleen Bush: 515-279-0310 | <a href="mailto://cmadsmmail@gmail.com" class="info_link">cmadsmmail@gmail.com</a>.</p> 
+            </div>
+        </article> 
+
         <article id="friend" class="content_pane">
             <div class="content_wrapper">
                 <h2>Become a Friend</h2>
@@ -42,9 +54,12 @@
                   <a href="pdf/cma_friends_form.pdf" target="_blank" class="info_link">Membership form (PDF)</a>
                   <p>Or submit your application &amp; membership donation online:</p>
                   <p><a href="https://www.eventbrite.com/e/support-the-celtic-music-association-2019-2020-concert-season-tickets-66768160365" target="_blank" class="info_link" style="margin: 2rem 0 2rem 0">Donate online via Eventbrite</a></p>
+                  <img src="img/cma-mugs.jpeg" alt="Green CMA mugs" style="width: 200px;">
+                    <p>"Friends of CMA" Beer Mug included with membership!</p>
             </div>
         </article>      
         <article id="donate" class="content_pane">
+        
             <div class="content_wrapper">
                 <h2>Donate to the CMA</h2>
                 <p><a href="https://www.eventbrite.com/e/support-the-celtic-music-association-2019-2020-concert-season-tickets-66768160365" target="_blank" class="cta" style="margin: 2rem 0 2rem 0">Donate online via Eventbrite</a></p>
@@ -53,6 +68,7 @@
                 <p>PO Box 30001</p>
                 <p>Des Moines, IA 50310</p>
                 <p>Phone: 515-555-0000</p>
+                                
             </div>
         </article>        
         <article id="advertise" class="content_pane">
