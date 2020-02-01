@@ -34,6 +34,7 @@
     <main>
         <article class="leader">
             <h1>The Celtic Music Association</h1>
+            <p class="leader-copy"><span class="bold">January 2020 Newsletter Correction:</span> HighTime performs on February 15, 2020. Some versions of the printed newsletter indicated the wrong date.</p>
             <p class="leader-copy"><span class="bold">CMA Items for Sale –</span>Long sleeve t-shirts, hats and backpacks are now <a href="support.php#merch" class="info_link">available for purchase.</a></p> 
             <p class="leader-copy"><span class="bold">Online Ticket Sales – </span>You can now purchase season and single-concert tickets online through <a href="https://thecma.eventbrite.com" target="_blank" class="info_link">Eventbrite.</a> Tickets also available at <a href="tickets.php">brick and mortar outlets</a> around Des Moines.</p> 
             <p class="leader-copy">The Celtic Music Association is Central Iowa's premier Celtic Music organization. Founded in 1992, the CMA has sponsored an annual concert series and Celtic music events for over a quarter century.</p>           
