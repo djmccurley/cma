@@ -74,7 +74,7 @@
         <article id="advertise" class="content_pane">
             <div class="content_wrapper">
                 <h2>Advertise with the CMA</h2>
-                <p>To advertise in the CMA program, <a href="mailto:mail@thecma.org" class="info_link">contact us here</a></p>
+                <p>Get more information about this great opportunity to promote Celtic Music in central Iowa. Contact <span class="bold">Jerry O'Grady</span> at <a href="mailto:cmadsmmail@gmail.com" class="info_link">cmadsmmail@gmail.com</a> to advertise in our program.</p>
             </div>
         </article>
 
