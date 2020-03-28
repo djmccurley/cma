@@ -61,6 +61,7 @@
                   <li>
                     <h3>2018 – 2019</h3>
                     <ul>
+                      <li>High Kings - August 2, 2018</li>
                       <li>The Fitzgeralds – October 06, 2018</li>
                       <li>Connla - January 12, 2019</li>
                       <li>Eileen Ivers - February 08, 2019</li>
