@@ -91,6 +91,7 @@
                 <h2>Newsletter</h2>
                 <p>(Please note: HighTime performs on February 15, 2020. Some versions of the January 2020 newsletter indicated the wrong date.)</p>
                 <ol>
+                <li><a href="pdf/cma_newsletter_7_20.pdf" class="info_link">July 2020</a></li>
                 <li><a href="pdf/cma_newsletter_1_20.pdf" class="info_link">January 2020</a></li>
                 <li><a href="pdf/cma_newsletter_12_19.pdf" class="info_link">December 2019</a></li>
                   <li><a href="pdf/cma_newsletter_9_19.pdf" class="info_link">September 2019</a></li>
