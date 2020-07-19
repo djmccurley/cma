@@ -38,10 +38,10 @@
             <p class="leader-copy">We had some amazing bands contracted for our 29th season. The governing board of the Celtic Music Association deliberated over what action would optimize safety for Our audiences, and would best serve our artists. The board’s discussion was a fine example of our concern for the common good and for the support of the musicians who grace our stages. <span class="bold">The unanimous decision of the board was to cancel the entire 2020-2021 season.</span> Watch our website and Facebook page for updates when the next season becomes possible. Thank you for your ongoing support for Celtic music.</p>
             <p class="leader-copy">The 2020-2021 Concert Season artists included:</p>
             <ul>
-              <li>April Verch - October 10, 2020</li>
-              <li>The Drowsy Lads - January 16, 2021</li>
-              <li>McPeake - February 13, 2021</li>
-              <li>Aofie Scott - March 13 2021</li>
+              <li><a href="https://aprilverch.com/" target="_blank" title="April Verch Website">April Verch</a></li>
+              <li><a href="http://www.thedrowsylads.com/" target="_blank" title="The Drowsy Lads Website">The Drowsy Lads</a></li>
+              <li><a href="https://www.mcpeakemusic.com/theband" target="_blank" title="McPeake Website">McPeake</a></li>
+              <li><a href="https://www.aoifescott.com/" target="_blank" title="Aoife Scott Website">Aofie Scott</a></li>
             </ul>
         </article>
 
